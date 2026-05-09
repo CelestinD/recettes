@@ -337,6 +337,381 @@
         "Sans dégonfler la croûte, étirer à la dimension désirée, puis garnir.",
         "Cuire à 450 °F (230 °C), grille centrale, de 10 à 15 minutes."
       ]
+    },
+    {
+      "id": "pate-feuilletee-rapide",
+      "nom": "Pâte feuilletée rapide",
+      "categorie": "pates",
+      "portions": 1,
+      "portions_label": "abaisse",
+      "ingredients": [
+        { "quantite": 30, "unite": "ml", "nom": "sucre", "note": "2 c. à soupe" },
+        { "quantite": 5, "unite": "ml", "nom": "sel", "note": "1 c. à thé" },
+        { "quantite": 315, "unite": "g", "nom": "farine tout usage", "note": "2½ tasses" },
+        { "quantite": 280, "unite": "g", "nom": "beurre non salé réfrigéré", "note": "1¼ tasse (2½ bâtonnets)" },
+        { "quantite": 105, "unite": "ml", "nom": "eau glacée", "note": "7 c. à soupe" }
+      ],
+      "preparation": [
+        "Dans un grand bol, mélanger le sucre, le sel et la farine. Râper ¾ tasse de beurre sur les gros trous d'une râpe directement dans le bol, en travaillant rapidement.",
+        "Trancher finement le reste du beurre et l'ajouter au bol. Écraser rapidement les tranches avec les doigts en morceaux plus petits et plus plats.",
+        "Arroser graduellement de l'eau glacée en remuant avec une fourchette. Pétrir quelques fois dans le bol pour rassembler la pâte en gros morceaux.",
+        "Transférer sur une pellicule plastique, former un carré de 15 cm, aplatir et presser les poches d'air. Réfrigérer 2 heures.",
+        "Laisser reposer 4 minutes à température ambiante. Étaler sur une surface farinée en un long rectangle d'environ 1 cm d'épaisseur.",
+        "Plier en tiers comme une lettre et faire pivoter de 90°. Répéter l'opération. Bien envelopper et réfrigérer au moins 30 minutes avant utilisation."
+      ]
+    },
+    {
+      "id": "pain-lait-japonais",
+      "nom": "Pain de lait japonais",
+      "categorie": "pates",
+      "portions": 1,
+      "portions_label": "pain",
+      "note": "Le tangzhong (pâte de farine cuite) donne au pain une mie exceptionnellement tendre.",
+      "ingredients": [
+        { "quantite": 40, "unite": "g", "nom": "farine à pain (pour le tangzhong)", "note": "2 c. à soupe" },
+        { "quantite": 180, "unite": "g", "nom": "eau (pour le tangzhong)" },
+        { "quantite": 600, "unite": "g", "nom": "farine à pain" },
+        { "quantite": 7, "unite": "g", "nom": "levure à action rapide", "note": "1 sachet" },
+        { "quantite": 240, "unite": "g", "nom": "lait tiède" },
+        { "quantite": 60, "unite": "g", "nom": "beurre fondu" },
+        { "quantite": 10, "unite": "ml", "nom": "sel", "note": "2 c. à thé" },
+        { "quantite": 75, "unite": "g", "nom": "sucre", "note": "6 c. à soupe" },
+        { "quantite": 2, "unite": "", "nom": "œufs (dont 1 pour la dorure)" }
+      ],
+      "preparation": [
+        "Tangzhong : mélanger l'eau et la farine dans une petite casserole avant d'allumer le feu. Chauffer à feu moyen-doux en remuant constamment jusqu'à épaississement. Laisser refroidir.",
+        "Dans un grand bol, combiner la farine, la levure, le lait, le beurre fondu, le sucre, le sel et 1 œuf. Ajouter le tangzhong refroidi et bien mélanger.",
+        "Pétrir au batteur sur socle ou à la main sur un plan fariné jusqu'à ce que la pâte ne soit plus collante.",
+        "Transférer dans un bol légèrement huilé, couvrir et laisser lever environ 1 heure jusqu'à ce que la pâte double.",
+        "Rabattre la pâte et diviser en trois morceaux. Rouler chaque morceau en ovale, plier en trois couches, puis enrouler comme un petit pain à la cannelle.",
+        "Placer les trois rouleaux dans un moule à pain huilé de 22 × 12 cm. Couvrir et laisser lever jusqu'au bord du moule. Préchauffer le four à 175 °C (350 °F). Badigeonner du 2e œuf battu.",
+        "Cuire environ 30 minutes jusqu'à coloration dorée. Couvrir d'aluminium si nécessaire. Refroidir sur une grille avant de trancher."
+      ]
+    },
+    {
+      "id": "bagels-st-viateur",
+      "nom": "Bagels St-Viateur",
+      "categorie": "pates",
+      "portions": 15,
+      "portions_label": "bagels",
+      "note": "Pâte assez sèche — c'est normal. Utiliser une surface non farinée pour pétrir et façonner.",
+      "ingredients": [
+        { "quantite": 1000, "unite": "g", "nom": "farine à pain", "note": "1 kg" },
+        { "quantite": 2, "unite": "g", "nom": "levure instantanée" },
+        { "quantite": 40, "unite": "g", "nom": "sucre" },
+        { "quantite": 9, "unite": "g", "nom": "extrait sec de malt (facultatif)" },
+        { "quantite": 1, "unite": "", "nom": "œuf" },
+        { "quantite": 465, "unite": "g", "nom": "eau tiède" },
+        { "quantite": 12, "unite": "ml", "nom": "huile végétale" },
+        { "quantite": 60, "unite": "ml", "nom": "miel (pour l'eau de cuisson)", "note": "¼ tasse" },
+        { "quantite": 100, "unite": "g", "nom": "graines de sésame" }
+      ],
+      "preparation": [
+        "Mélanger les ingrédients humides aux secs pour obtenir une pâte en lambeaux.",
+        "Pétrir sur une surface non farinée pendant 12 à 15 minutes jusqu'à ce qu'elle soit lisse et élastique. La pâte sera assez sèche.",
+        "Couvrir et laisser reposer sur le comptoir 45 à 60 minutes.",
+        "Préchauffer le four à 235 °C (450 °F). Porter une grande casserole d'eau juste sous le point d'ébullition et y dissoudre le miel.",
+        "Diviser la pâte en morceaux de ~100 g et façonner les bagels sur une surface non farinée. Déposer sur une surface farinée et couvrir.",
+        "Faire bouillir doucement les bagels dans l'eau de miel 3 à 5 minutes sans surcharger la casserole. Après ébullition, tremper des deux côtés dans les graines de sésame.",
+        "Cuire au four 15 minutes ou jusqu'à cuisson complète, en retournant 2 à 3 fois."
+      ]
+    },
+    {
+      "id": "pate-a-brioches",
+      "nom": "Pâte à brioches",
+      "categorie": "pates",
+      "portions": 12,
+      "portions_label": "brioches",
+      "ingredients": [
+        { "quantite": 310, "unite": "g", "nom": "babeurre (lait de beurre) tiède" },
+        { "quantite": 50, "unite": "g", "nom": "sucre" },
+        { "quantite": 450, "unite": "g", "nom": "farine tout usage non blanchie" },
+        { "quantite": 4, "unite": "g", "nom": "levure instantanée", "note": "2 c. à thé" },
+        { "quantite": 2.5, "unite": "ml", "nom": "sel", "note": "½ c. à thé" },
+        { "quantite": 75, "unite": "g", "nom": "beurre non salé fondu" },
+        { "quantite": 125, "unite": "ml", "nom": "beurre fondu (garniture)", "note": "½ tasse" },
+        { "quantite": 180, "unite": "ml", "nom": "cassonade (garniture)", "note": "¾ tasse" },
+        { "quantite": 180, "unite": "ml", "nom": "sucre (garniture)", "note": "¾ tasse" },
+        { "quantite": 7.5, "unite": "ml", "nom": "cannelle moulue (garniture)", "note": "1½ c. à thé" }
+      ],
+      "preparation": [
+        "Dans un bol, mélanger le babeurre et le sucre. Dans un grand bol, combiner la farine, la levure et le sel. Ajouter le babeurre sucré et mélanger jusqu'à formation de la pâte.",
+        "Ajouter progressivement le beurre fondu et pétrir environ 5 minutes. La pâte sera molle et légèrement collante. Placer dans un bol légèrement huilé, couvrir et laisser lever 1 heure dans un endroit chaud.",
+        "Rouler la pâte en un grand rectangle d'environ 1 cm d'épaisseur.",
+        "Mélanger les ingrédients de la garniture et les étendre sur la pâte. Rouler à partir du côté le plus étroit.",
+        "Couper en 12 brioches uniformes et placer dans un plat. Couvrir et laisser lever 45 minutes dans un endroit chaud.",
+        "Préchauffer le four à 180 °C (350 °F). Cuire 20 à 25 minutes. Démouler immédiatement et laisser refroidir 15 minutes avant de servir."
+      ]
+    },
+    {
+      "id": "pain-de-viande",
+      "nom": "Pain de viande",
+      "categorie": "plats",
+      "portions": 6,
+      "portions_label": "portions",
+      "note": "Se congèle bien, cuit ou non cuit, bien enveloppé dans du papier d'aluminium.",
+      "ingredients": [
+        { "quantite": 250, "unite": "ml", "nom": "miettes de pain", "note": "1 tasse" },
+        { "quantite": 80, "unite": "ml", "nom": "lait entier", "note": "⅓ tasse" },
+        { "quantite": 1, "unite": "", "nom": "oignon moyen, finement haché" },
+        { "quantite": 1, "unite": "", "nom": "branche de céleri, en cubes" },
+        { "quantite": 4, "unite": "", "nom": "gousses d'ail, finement hachées" },
+        { "quantite": 11, "unite": "ml", "nom": "sel", "note": "2¼ c. à thé" },
+        { "quantite": 7.5, "unite": "ml", "nom": "poivre noir", "note": "1½ c. à thé" },
+        { "quantite": 680, "unite": "g", "nom": "bœuf haché", "note": "1½ lb" },
+        { "quantite": 225, "unite": "g", "nom": "porc haché", "note": "½ lb" },
+        { "quantite": 2, "unite": "", "nom": "gros œufs" },
+        { "quantite": 30, "unite": "ml", "nom": "huile végétale", "note": "2 c. à soupe" },
+        { "quantite": 45, "unite": "ml", "nom": "sauce Worcestershire", "note": "3 c. à soupe" },
+        { "quantite": 125, "unite": "ml", "nom": "ketchup (chili sauce)", "note": "½ tasse, divisée" }
+      ],
+      "preparation": [
+        "Dans un grand bol, combiner les miettes de pain et le lait. Réserver.",
+        "Dans un poêlon, chauffer l'huile à feu moyen et faire revenir l'oignon, le céleri et l'ail environ 5 minutes. Retirer du feu et ajouter la sauce Worcestershire. Verser sur les miettes de pain.",
+        "Ajouter le bœuf, le porc, les œufs et ¼ tasse de ketchup. Mélanger avec les mains jusqu'à homogénéité.",
+        "Déposer dans un plat de cuisson et compacter pour former une bûchette ferme. Étendre le reste du ketchup sur le dessus.",
+        "Cuire à 68 °C interne (155 °F), environ 60 à 75 minutes.",
+        "Laisser reposer 15 minutes avant de servir."
+      ]
+    },
+    {
+      "id": "soupe-orge",
+      "nom": "Soupe à l'orge",
+      "categorie": "plats",
+      "portions": 8,
+      "portions_label": "portions",
+      "ingredients": [
+        { "quantite": 45, "unite": "ml", "nom": "beurre", "note": "3 c. à soupe" },
+        { "quantite": 2, "unite": "", "nom": "petits oignons, finement hachés" },
+        { "quantite": 2000, "unite": "ml", "nom": "eau bouillante", "note": "8 tasses" },
+        { "quantite": 250, "unite": "ml", "nom": "orge", "note": "1 tasse" },
+        { "quantite": 7.5, "unite": "ml", "nom": "sel", "note": "1½ c. à thé" },
+        { "quantite": 2.5, "unite": "ml", "nom": "poivre", "note": "½ c. à thé" },
+        { "quantite": 750, "unite": "ml", "nom": "épinards déchiquetés", "note": "3 tasses" },
+        { "quantite": 250, "unite": "ml", "nom": "chou haché", "note": "1 tasse" },
+        { "quantite": 60, "unite": "ml", "nom": "carottes râpées", "note": "¼ tasse" },
+        { "quantite": 60, "unite": "ml", "nom": "petits pois frais ou persil haché", "note": "¼ tasse" },
+        { "quantite": 1, "unite": "", "nom": "cube de bouillon de bœuf ou de poulet" },
+        { "quantite": 5, "unite": "ml", "nom": "fines herbes", "note": "1 c. à thé" },
+        { "quantite": 284, "unite": "ml", "nom": "soupe aux tomates en conserve (ou sauce tomate mutti)", "note": "1 boîte de 10 oz" }
+      ],
+      "preparation": [
+        "Cuire l'orge dans une casserole d'eau bouillante salée. Égoutter et réserver.",
+        "Faire fondre le beurre dans une grande casserole. Ajouter les oignons et faire brunir légèrement à feu doux en brassant.",
+        "Ajouter l'eau bouillante, le cube de bouillon, le sel, le poivre et les fines herbes.",
+        "Ajouter le chou, les carottes et les petits pois. Laisser cuire jusqu'à ce que les légumes soient tendres.",
+        "Ajouter les épinards et l'orge cuit. Laisser mijoter 1 heure.",
+        "Ajouter la soupe aux tomates et chauffer encore 2 à 3 minutes. Allonger d'eau bouillante si désiré."
+      ]
+    },
+    {
+      "id": "rouleaux-imperiaux",
+      "nom": "Rouleaux impériaux",
+      "categorie": "plats",
+      "portions": 4,
+      "portions_label": "portions (20 rouleaux)",
+      "temps_prep": "30 min",
+      "temps_cuisson": "25 min",
+      "ingredients": [
+        { "quantite": 225, "unite": "g", "nom": "viande hachée maigre", "note": "½ lb" },
+        { "quantite": 750, "unite": "ml", "nom": "chou vert émincé finement", "note": "3 tasses, environ ½ chou" },
+        { "quantite": 1, "unite": "", "nom": "gros oignon, émincé finement" },
+        { "quantite": 2, "unite": "", "nom": "carottes, pelées et râpées" },
+        { "quantite": 45, "unite": "ml", "nom": "huile de canola", "note": "3 c. à soupe" },
+        { "quantite": 60, "unite": "ml", "nom": "sauce au poisson (nuoc-mam)", "note": "¼ tasse" },
+        { "quantite": 5, "unite": "ml", "nom": "sambal oelek", "note": "1 c. à thé" },
+        { "quantite": 500, "unite": "ml", "nom": "vermicelles de riz concassés et cuits", "note": "2 tasses" },
+        { "quantite": 10, "unite": "", "nom": "feuilles de pâte phyllo" },
+        { "quantite": 75, "unite": "ml", "nom": "huile de canola (pour badigeonner)", "note": "⅓ tasse" },
+        { "quantite": 30, "unite": "ml", "nom": "sauce au poisson (sauce)", "note": "2 c. à soupe" },
+        { "quantite": 20, "unite": "ml", "nom": "sucre (sauce)", "note": "4 c. à thé" },
+        { "quantite": 15, "unite": "ml", "nom": "vinaigre de riz (sauce)", "note": "1 c. à soupe" },
+        { "quantite": 60, "unite": "ml", "nom": "eau (sauce)", "note": "¼ tasse" },
+        { "quantite": 5, "unite": "ml", "nom": "sambal oelek (sauce)", "note": "1 c. à thé" }
+      ],
+      "preparation": [
+        "Faire revenir la viande et les légumes dans l'huile de 8 à 10 minutes jusqu'à ce que les légumes soient tendres. Ajouter la sauce au poisson et le sambal oelek. Laisser réduire presque à sec. Retirer du feu, ajouter les vermicelles. Laisser tiédir.",
+        "Préchauffer le four à 200 °C (400 °F). Tapisser une plaque de papier parchemin.",
+        "Déposer une feuille de pâte phyllo, badigeonner d'huile et couvrir d'une deuxième feuille. Répartir de la farce sur un côté long. Rouler fermement, badigeonner d'huile. Couper en 4 ou 5 tronçons. Répéter avec le reste.",
+        "Déposer sur la plaque et cuire environ 25 minutes jusqu'à ce qu'ils soient bien dorés.",
+        "Sauce : dans un bol, mélanger tous les ingrédients de la sauce jusqu'à dissolution du sucre. Servir avec les rouleaux."
+      ]
+    },
+    {
+      "id": "dumplings-maison",
+      "nom": "Dumplings maison",
+      "categorie": "plats",
+      "portions": 4,
+      "portions_label": "portions",
+      "ingredients": [
+        { "quantite": 250, "unite": "ml", "nom": "farine tout usage", "note": "1 tasse" },
+        { "quantite": 125, "unite": "ml", "nom": "eau tiède", "note": "½ tasse" },
+        { "quantite": 140, "unite": "g", "nom": "chou vert, haché finement", "note": "2-3 feuilles" },
+        { "quantite": 15, "unite": "g", "nom": "oignons verts, hachés", "note": "2 tiges" },
+        { "quantite": 2, "unite": "", "nom": "champignons shiitake, hachés" },
+        { "quantite": 340, "unite": "g", "nom": "porc haché" },
+        { "quantite": 2, "unite": "", "nom": "gousses d'ail, finement râpées" },
+        { "quantite": 5, "unite": "ml", "nom": "gingembre râpé", "note": "1 c. à thé" },
+        { "quantite": 5, "unite": "ml", "nom": "saké (facultatif)", "note": "1 c. à thé" },
+        { "quantite": 5, "unite": "ml", "nom": "huile de sésame grillé", "note": "1 c. à thé" },
+        { "quantite": 5, "unite": "ml", "nom": "sauce soja", "note": "1 c. à thé" },
+        { "quantite": 2.5, "unite": "ml", "nom": "sel", "note": "½ c. à thé" },
+        { "quantite": 1.25, "unite": "ml", "nom": "poivre noir", "note": "¼ c. à thé" }
+      ],
+      "preparation": [
+        "Pâte : mélanger la farine et l'eau tiède pour obtenir une pâte ferme et sans grumeaux. Laisser reposer couvert à l'abri de l'air.",
+        "Farce : mélanger le porc, le chou, les oignons verts, les champignons, l'ail, le gingembre et tous les assaisonnements.",
+        "Rouler la pâte en petits cercles de 2 à 4 mm d'épaisseur.",
+        "Déposer une cuillerée de farce au centre de chaque cercle et bien sceller les bords.",
+        "Cuire dans de l'eau bouillante de 5 à 10 minutes selon la taille, jusqu'à ce qu'ils remontent à la surface. Servir avec la marinade en sauce pour tremper."
+      ]
+    },
+    {
+      "id": "boeuf-bourguignon",
+      "nom": "Bœuf bourguignon",
+      "categorie": "plats",
+      "portions": 4,
+      "portions_label": "portions",
+      "temps_prep": "30 min",
+      "temps_cuisson": "1 h 30",
+      "ingredients": [
+        { "quantite": 45, "unite": "ml", "nom": "beurre (beurre manié)", "note": "3 c. à soupe" },
+        { "quantite": 45, "unite": "ml", "nom": "farine (beurre manié)", "note": "3 c. à soupe" },
+        { "quantite": 140, "unite": "g", "nom": "lard salé, en dés" },
+        { "quantite": 1100, "unite": "g", "nom": "cubes de bœuf" },
+        { "quantite": 30, "unite": "ml", "nom": "huile d'olive", "note": "2 c. à soupe" },
+        { "quantite": 1, "unite": "", "nom": "gros oignon, haché" },
+        { "quantite": 1, "unite": "", "nom": "carotte, en dés" },
+        { "quantite": 2, "unite": "", "nom": "gousses d'ail, hachées" },
+        { "quantite": 45, "unite": "ml", "nom": "brandy", "note": "3 c. à soupe" },
+        { "quantite": 500, "unite": "ml", "nom": "vin rouge", "note": "2 tasses" },
+        { "quantite": 500, "unite": "ml", "nom": "bouillon de bœuf", "note": "2 tasses" },
+        { "quantite": 1, "unite": "", "nom": "branche de thym frais" },
+        { "quantite": 1, "unite": "", "nom": "feuille de laurier" },
+        { "quantite": 225, "unite": "g", "nom": "champignons blancs, coupés en deux", "note": "garniture" },
+        { "quantite": 170, "unite": "g", "nom": "petits oignons blancs perlés", "note": "garniture" },
+        { "quantite": 45, "unite": "ml", "nom": "beurre (garniture)", "note": "3 c. à soupe" },
+        { "quantite": 30, "unite": "ml", "nom": "persil ciselé", "note": "2 c. à soupe" }
+      ],
+      "preparation": [
+        "Préchauffer le four à 325 °F (160 °C). Dans un petit bol, mélanger le beurre et la farine pour former le beurre manié. Réserver.",
+        "Blanchir le lard 5 minutes dans une petite casserole d'eau bouillante. Égoutter et réserver.",
+        "Dans une grande casserole allant au four, dorer les cubes de bœuf dans l'huile à feu moyen-élevé. Saler, poivrer et réserver. Conserver 1 c. à soupe de gras dans la casserole.",
+        "Dorer l'oignon, la carotte et le lard dans la même casserole. Ajouter l'ail et cuire 1 minute. Verser le brandy et laisser réduire. Ajouter le vin, réduire de moitié. Ajouter le bouillon et le beurre manié en remuant. Porter à ébullition.",
+        "Remettre la viande, ajouter le thym et le laurier. Couvrir et cuire au four 1 heure.",
+        "Garniture : faire sauter les champignons et les oignons perlés dans le beurre à feu élevé jusqu'à dorure. Ajouter à la casserole et poursuivre la cuisson 30 minutes. Garnir de persil ciselé."
+      ]
+    },
+    {
+      "id": "saute-asiatique",
+      "nom": "Sauté asiatique",
+      "categorie": "plats",
+      "portions": 4,
+      "portions_label": "portions",
+      "note": "Sauce de Nathan : 3 c. à soupe chacune de sauce soya, vinaigre de riz, miel et eau + 1 c. à soupe huile de sésame + 2 c. à thé fécule de maïs + gingembre et ail au goût.",
+      "ingredients": [
+        { "quantite": 30, "unite": "ml", "nom": "eau", "note": "2 c. à soupe" },
+        { "quantite": 30, "unite": "ml", "nom": "vinaigre", "note": "2 c. à soupe" },
+        { "quantite": 30, "unite": "ml", "nom": "sauce soya", "note": "2 c. à soupe" },
+        { "quantite": 15, "unite": "ml", "nom": "sirop d'érable", "note": "1 c. à soupe" },
+        { "quantite": 5, "unite": "ml", "nom": "gingembre, finement haché", "note": "1 c. à thé" },
+        { "quantite": 7.5, "unite": "ml", "nom": "fécule de maïs", "note": "½ c. à soupe" },
+        { "quantite": 5, "unite": "ml", "nom": "sauce piquante", "note": "1 c. à thé" },
+        { "quantite": 500, "unite": "ml", "nom": "légumes à cuisson longue (oignons, carottes, céleri, brocoli…)", "note": "2 tasses" },
+        { "quantite": 750, "unite": "ml", "nom": "légumes à cuisson rapide (pois mange-tout, poivrons, bok choy, fèves germées…)", "note": "3 tasses" }
+      ],
+      "preparation": [
+        "Faire revenir les légumes à cuisson longue dans un wok ou une grande poêle huilée à feu vif, de 5 à 8 minutes.",
+        "Fouetter dans un bol tous les ingrédients de la sauce pour dissoudre complètement la fécule de maïs.",
+        "Ajouter les légumes à cuisson rapide et sauter 1-2 minutes.",
+        "Verser la sauce dans le poêlon et remuer pour bien enrober tous les légumes.",
+        "Poursuivre la cuisson de 3 à 5 minutes jusqu'à la texture désirée. Ne pas trop cuire.",
+        "Servir sur du riz ou des nouilles."
+      ]
+    },
+    {
+      "id": "fajitas-poulet",
+      "nom": "Fajitas au poulet",
+      "categorie": "plats",
+      "portions": 4,
+      "portions_label": "portions",
+      "temps_prep": "35 min",
+      "temps_cuisson": "10 min",
+      "ingredients": [
+        { "quantite": 450, "unite": "g", "nom": "poulet, coupé en lanières" },
+        { "quantite": 15, "unite": "ml", "nom": "huile de tournesol", "note": "1 c. à soupe" },
+        { "quantite": 0.5, "unite": "", "nom": "oignon rouge, émincé" },
+        { "quantite": 1, "unite": "", "nom": "poivron vert, en lanières" },
+        { "quantite": 1, "unite": "", "nom": "poivron jaune, en lanières" },
+        { "quantite": null, "unite": "", "nom": "tortillas (au goût)" },
+        { "quantite": null, "unite": "", "nom": "jus de citron (au goût)" },
+        { "quantite": 1, "unite": "", "nom": "gousse d'ail, écrasée" },
+        { "quantite": 5, "unite": "ml", "nom": "coriandre en poudre", "note": "1 c. à thé" },
+        { "quantite": 5, "unite": "ml", "nom": "paprika", "note": "1 c. à thé" },
+        { "quantite": 2.5, "unite": "ml", "nom": "cumin en poudre", "note": "½ c. à thé" },
+        { "quantite": 5, "unite": "ml", "nom": "origan séché", "note": "1 c. à thé" },
+        { "quantite": 100, "unite": "ml", "nom": "bière", "note": "2/5 tasse" },
+        { "quantite": null, "unite": "", "nom": "sel (au goût)" }
+      ],
+      "preparation": [
+        "Mélanger tous les ingrédients de la marinade (ail, coriandre, paprika, cumin, origan, bière, sel) et y faire mariner le poulet 30 minutes.",
+        "Faire chauffer l'huile dans une poêle, ajouter les lanières de poulet et sauter 3 à 4 minutes.",
+        "Ajouter les légumes et mélanger 5 minutes.",
+        "Faire chauffer les tortillas 30 secondes au micro-ondes.",
+        "En fin de cuisson, arroser la poêle de jus de citron et servir chaud."
+      ]
+    },
+    {
+      "id": "galettes-porc-epices",
+      "nom": "Galettes de porc épicées",
+      "categorie": "plats",
+      "portions": 12,
+      "portions_label": "galettes",
+      "note": "Peut utiliser une épaule de porc coupée en cubes et passée au hachoir, ou du porc déjà haché.",
+      "ingredients": [
+        { "quantite": 1000, "unite": "g", "nom": "porc haché (épaule de préférence)", "note": "~1 kg" },
+        { "quantite": 25, "unite": "g", "nom": "sauge fraîche, hachée finement" },
+        { "quantite": 12, "unite": "g", "nom": "thym frais, haché finement" },
+        { "quantite": 5, "unite": "g", "nom": "flocons de piment rouge" },
+        { "quantite": 5, "unite": "g", "nom": "paprika" },
+        { "quantite": 1, "unite": "g", "nom": "noix de muscade moulue" },
+        { "quantite": 5, "unite": "", "nom": "gousses d'ail, finement râpées" },
+        { "quantite": 10, "unite": "g", "nom": "cassonade" },
+        { "quantite": 15, "unite": "g", "nom": "gros sel" },
+        { "quantite": 3, "unite": "g", "nom": "poivre noir moulu" },
+        { "quantite": 30, "unite": "ml", "nom": "huile de cuisson", "note": "2 c. à soupe" }
+      ],
+      "preparation": [
+        "Si on utilise une épaule de porc entière : couper en cubes de 2,5 cm et refroidir 15 à 20 minutes au congélateur. Passer au hachoir avec une grille moyenne.",
+        "Mélanger toutes les épices, l'ail, la cassonade, le sel et le poivre à la viande hachée. Bien mélanger.",
+        "Faire cuire une petite portion pour goûter et ajuster l'assaisonnement au besoin.",
+        "Façonner des galettes de 6 à 7,5 cm de diamètre.",
+        "Faire chauffer l'huile dans une poêle à feu moyen et cuire 3 à 4 minutes de chaque côté jusqu'à bien dorées.",
+        "Servir chaud."
+      ]
+    },
+    {
+      "id": "brie-au-four",
+      "nom": "Brie au four",
+      "categorie": "plats",
+      "portions": 4,
+      "portions_label": "portions",
+      "temps_cuisson": "15 min",
+      "ingredients": [
+        { "quantite": 230, "unite": "g", "nom": "meule de brie entière" },
+        { "quantite": 30, "unite": "ml", "nom": "beurre de noisettes ou d'amandes", "note": "2 c. à soupe" },
+        { "quantite": 30, "unite": "ml", "nom": "miel", "note": "2 c. à soupe" },
+        { "quantite": 15, "unite": "ml", "nom": "noisettes ou amandes rôties, hachées grossièrement", "note": "1 c. à soupe" },
+        { "quantite": null, "unite": "", "nom": "fleur de sel (une pincée)" },
+        { "quantite": null, "unite": "", "nom": "craquelins, biscottes, pommes, raisins et poires (pour servir)" }
+      ],
+      "preparation": [
+        "Préchauffer le four à 175 °C (350 °F).",
+        "Placer le brie sur du papier parchemin et cuire environ 15 minutes, jusqu'à ce que l'intérieur soit fondant au toucher.",
+        "Transférer dans un plat de service.",
+        "Garnir de beurre de noisettes, de miel, de noisettes rôties et d'une pincée de fleur de sel.",
+        "Servir immédiatement avec des craquelins, des biscottes, des quartiers de pommes, des raisins et des poires."
+      ]
     }
   ]
 }
