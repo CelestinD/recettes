@@ -1,0 +1,342 @@
+{
+  "categories": [
+    { "id": "breuvages", "nom": "Breuvages", "emoji": "🍹" },
+    { "id": "sauces", "nom": "Sauces & Condiments", "emoji": "🫙" },
+    { "id": "pates", "nom": "Pâtes de base", "emoji": "🍞" },
+    { "id": "plats", "nom": "Plats principaux", "emoji": "🍲" },
+    { "id": "desserts", "nom": "Desserts", "emoji": "🍰" }
+  ],
+  "recettes": [
+    {
+      "id": "limonade-earl-grey",
+      "nom": "Limonade Earl Grey",
+      "categorie": "breuvages",
+      "portions": 2,
+      "portions_label": "verres",
+      "ingredients": [
+        { "quantite": 3, "unite": "", "nom": "citrons (zeste et jus)" },
+        { "quantite": 112, "unite": "g", "nom": "sucre", "note": "½ tasse" },
+        { "quantite": 300, "unite": "ml", "nom": "eau (1re mesure)" },
+        { "quantite": 2, "unite": "", "nom": "sachets de thé noir" },
+        { "quantite": 300, "unite": "ml", "nom": "eau (2e mesure)" }
+      ],
+      "preparation": [
+        "Dans un petit bol, ajouter le sucre et le zeste de citron. Mélanger en frottant du bout des doigts pour extraire le plus d'huile de citron possible.",
+        "Placer le mélange de sucre dans une casserole, ajouter l'eau (1re mesure) et chauffer à feu moyen en remuant jusqu'à dissolution complète du sucre.",
+        "Couper le feu et ajouter les sachets de thé noir. Infuser 5 minutes, puis filtrer à travers une passoire à mailles fines dans un récipient contenant la 2e mesure d'eau.",
+        "Ajouter le jus de citron et mélanger. Verser dans un verre avec de la glace et décorer d'une tranche de citron."
+      ]
+    },
+    {
+      "id": "the-chai-latte",
+      "nom": "Thé Chai Latté",
+      "categorie": "breuvages",
+      "portions": 2,
+      "portions_label": "tasses",
+      "note": "Recette de Nathan",
+      "ingredients": [
+        { "quantite": 500, "unite": "ml", "nom": "lait", "note": "2 tasses" },
+        { "quantite": 15, "unite": "ml", "nom": "thé chai" },
+        { "quantite": 1, "unite": "", "nom": "anis étoilée" },
+        { "quantite": null, "unite": "", "nom": "cardamome (au goût)" },
+        { "quantite": null, "unite": "", "nom": "muscade (au goût)" },
+        { "quantite": null, "unite": "", "nom": "gingembre (au goût)" },
+        { "quantite": null, "unite": "", "nom": "cannelle (au goût)" },
+        { "quantite": 2.5, "unite": "ml", "nom": "extrait de vanille", "note": "½ c. à thé" },
+        { "quantite": 15, "unite": "ml", "nom": "sirop d'érable", "note": "1 c. à soupe" }
+      ],
+      "preparation": [
+        "Dans une casserole, mélanger tous les ingrédients sauf le sirop d'érable et la vanille.",
+        "Chauffer à feu moyen sans atteindre l'ébullition, environ 12 minutes en remuant.",
+        "Passer au tamis.",
+        "Ajouter le sirop d'érable et la vanille.",
+        "Servir chaud ou réfrigérer si froid désiré."
+      ]
+    },
+    {
+      "id": "kombucha-maison",
+      "nom": "Kombucha maison",
+      "categorie": "breuvages",
+      "portions": 1,
+      "portions_label": "lot (3 L)",
+      "ingredients": [
+        { "quantite": 350, "unite": "ml", "nom": "culture liquide de kombucha (mère)" },
+        { "quantite": 12, "unite": "g", "nom": "thé (1 grand sachet)" },
+        { "quantite": 180, "unite": "g", "nom": "sucre", "note": "1 tasse" },
+        { "quantite": 500, "unite": "ml", "nom": "eau bouillante" },
+        { "quantite": 2500, "unite": "ml", "nom": "eau froide" },
+        { "quantite": 125, "unite": "ml", "nom": "jus ou purée de fruits (ananas, pomme, orange…)" }
+      ],
+      "preparation": [
+        "Placer le sachet de thé dans une grande jarre. Verser l'eau bouillante, laisser infuser 15 minutes, puis retirer le sachet.",
+        "Ajouter le sucre et remuer jusqu'à dissolution complète.",
+        "Verser de l'eau froide jusqu'à atteindre 3 litres. Le thé est maintenant tiède.",
+        "Ajouter la mère de kombucha avec sa culture liquide.",
+        "Couvrir le récipient avec un tissu et fixer avec un élastique.",
+        "Placer la jarre dans un endroit bien aéré à l'abri de la lumière directe du soleil. Laisser fermenter selon le goût."
+      ]
+    },
+    {
+      "id": "kefir-eau",
+      "nom": "Kéfir d'eau (tibicos)",
+      "categorie": "breuvages",
+      "portions": 1,
+      "portions_label": "lot (2 L)",
+      "note": "Recette d'Annabelle",
+      "ingredients": [
+        { "quantite": 125, "unite": "ml", "nom": "grains de kéfir", "note": "½ tasse" },
+        { "quantite": 80, "unite": "ml", "nom": "cassonade (ou sucre blanc + 1 c. à soupe mélasse)", "note": "⅓ tasse" },
+        { "quantite": 1, "unite": "", "nom": "tranche de citron" },
+        { "quantite": 1750, "unite": "ml", "nom": "eau", "note": "7 tasses" },
+        { "quantite": 400, "unite": "ml", "nom": "jus de fruits (pour 2e fermentation)", "note": "environ 20% du volume" }
+      ],
+      "preparation": [
+        "Dans un pot de 2 L : mélanger la cassonade, les grains de kéfir, la tranche de citron et l'eau.",
+        "1re fermentation : couvrir le pot d'un tissu (avec élastique), laisser sur le comptoir 24 à 48 h en brassant occasionnellement.",
+        "Filtrer le mélange. Jeter le citron. Réserver les grains pour la prochaine utilisation.",
+        "2e fermentation : verser le liquide dans une bouteille résistant à la pression avec environ 20 % de jus de fruits. Fermer hermétiquement et laisser sur le comptoir 24 à 48 h.",
+        "Servir avec de l'eau pétillante (ratio 1:1), ou avec des morceaux de fruits et du basilic.",
+        "Conservation des grains : rincer à l'eau tiède et égoutter. Réfrigérer dans de l'eau sucrée (50 g/L) ou congeler dans un sac hermétique."
+      ]
+    },
+    {
+      "id": "frappuchino-cel",
+      "nom": "Cel's Frappuchino",
+      "categorie": "breuvages",
+      "portions": 1,
+      "portions_label": "verre",
+      "ingredients": [
+        { "quantite": 7, "unite": "", "nom": "boules de crème glacée à la vanille" },
+        { "quantite": 5, "unite": "", "nom": "glaçons" },
+        { "quantite": 10, "unite": "ml", "nom": "mix cacao-lavande", "note": "2 c. à thé" },
+        { "quantite": 2, "unite": "", "nom": "doubles espressos" },
+        { "quantite": 14, "unite": "", "nom": "pistoles de chocolat" },
+        { "quantite": 1, "unite": "", "nom": "cube de sucre" }
+      ],
+      "preparation": [
+        "Placer tous les ingrédients dans le mélangeur.",
+        "Mélanger jusqu'à l'obtention d'une texture lisse et onctueuse.",
+        "Servir immédiatement."
+      ]
+    },
+    {
+      "id": "smoothies",
+      "nom": "Smoothies",
+      "categorie": "breuvages",
+      "portions": 1,
+      "portions_label": "portion",
+      "ingredients": [
+        { "quantite": 400, "unite": "g", "nom": "fruits (+ glace si non congelés)" },
+        { "quantite": 250, "unite": "g", "nom": "jus de fruits" },
+        { "quantite": 25, "unite": "g", "nom": "jus de citron" }
+      ],
+      "preparation": [
+        "Placer tous les ingrédients dans le mélangeur.",
+        "Mélanger jusqu'à l'obtention d'une texture lisse.",
+        "Ajuster la consistance avec du jus ou de la glace selon la préférence."
+      ]
+    },
+    {
+      "id": "hummus-maison",
+      "nom": "Hummus maison",
+      "categorie": "sauces",
+      "portions": 4,
+      "portions_label": "portions",
+      "ingredients": [
+        { "quantite": 2, "unite": "", "nom": "gousses d'ail" },
+        { "quantite": 2, "unite": "", "nom": "citrons (jus)" },
+        { "quantite": 550, "unite": "ml", "nom": "pois chiches (cuits ou en conserve)" },
+        { "quantite": 150, "unite": "ml", "nom": "eau" },
+        { "quantite": 125, "unite": "ml", "nom": "beurre de sésame (tahini)" },
+        { "quantite": null, "unite": "", "nom": "cumin moulu (au goût)" },
+        { "quantite": null, "unite": "", "nom": "piment de cayenne (au goût)" },
+        { "quantite": null, "unite": "", "nom": "sel (au goût)" }
+      ],
+      "preparation": [
+        "Placer tous les ingrédients dans le robot culinaire.",
+        "Mélanger jusqu'à l'obtention d'une texture lisse.",
+        "Ajuster les épices au goût.",
+        "Servir avec du pain pita, des légumes ou en tartinade."
+      ]
+    },
+    {
+      "id": "compote-pomme",
+      "nom": "Compote de pomme",
+      "categorie": "sauces",
+      "portions": 4,
+      "portions_label": "portions",
+      "note": "Donne environ 1 pot masson moyen. Se conserve 5 jours au réfrigérateur.",
+      "ingredients": [
+        { "quantite": 125, "unite": "ml", "nom": "eau", "note": "½ tasse" },
+        { "quantite": 440, "unite": "g", "nom": "pommes non pelées, épépinées et coupées en cubes", "note": "~4 pommes" },
+        { "quantite": 1.67, "unite": "ml", "nom": "cannelle (facultatif)", "note": "⅓ c. à thé" }
+      ],
+      "preparation": [
+        "Dans une casserole, porter l'eau et les pommes à ébullition.",
+        "Laisser mijoter 10 minutes jusqu'à ce que les pommes soient molles.",
+        "Réduire les pommes en purée lisse au mélangeur.",
+        "Ajouter la cannelle si désiré.",
+        "Refroidir et réfrigérer."
+      ]
+    },
+    {
+      "id": "beurre-de-pomme",
+      "nom": "Beurre de pomme (mijoteuse)",
+      "categorie": "sauces",
+      "portions": 4,
+      "portions_label": "pots masson",
+      "ingredients": [
+        { "quantite": 2500, "unite": "g", "nom": "pommes avec pelures", "note": "2,5 kg / 5½ lbs" },
+        { "quantite": 250, "unite": "ml", "nom": "cassonade", "note": "1 tasse" },
+        { "quantite": 250, "unite": "ml", "nom": "sucre", "note": "1 tasse" },
+        { "quantite": 15, "unite": "ml", "nom": "cannelle", "note": "1 c. à soupe" },
+        { "quantite": 10, "unite": "ml", "nom": "extrait de vanille", "note": "2 c. à thé" },
+        { "quantite": 1.25, "unite": "ml", "nom": "sel", "note": "¼ c. à thé" }
+      ],
+      "preparation": [
+        "Retirer le cœur des pommes et les couper en morceaux. Déposer dans la mijoteuse.",
+        "Ajouter le reste des ingrédients et remuer.",
+        "Couvrir et cuire 10 h à faible intensité (ou 4 h à intensité élevée), en remuant quelques fois.",
+        "Retirer environ 250 ml de liquide et réserver.",
+        "Réduire les pommes en purée à l'aide du mélangeur à main.",
+        "Poursuivre la cuisson à découvert 2 h à faible intensité (ou 1 h à élevée) jusqu'à la consistance désirée."
+      ]
+    },
+    {
+      "id": "sauce-bechamel",
+      "nom": "Sauce béchamel",
+      "categorie": "sauces",
+      "portions": 4,
+      "portions_label": "portions",
+      "note": "Donne environ 500 ml (2 tasses)",
+      "ingredients": [
+        { "quantite": 45, "unite": "ml", "nom": "beurre", "note": "3 c. à soupe" },
+        { "quantite": 45, "unite": "ml", "nom": "farine", "note": "3 c. à soupe" },
+        { "quantite": 500, "unite": "ml", "nom": "lait", "note": "2 tasses" },
+        { "quantite": null, "unite": "", "nom": "une pincée de muscade" },
+        { "quantite": null, "unite": "", "nom": "une pincée de sel" }
+      ],
+      "preparation": [
+        "Faire fondre le beurre à feu moyen dans une casserole.",
+        "Ajouter la farine et mélanger à l'aide d'un fouet. Laisser cuire le mélange 1 minute.",
+        "Ajouter le lait, la muscade et le sel en fouettant constamment. Porter à ébullition (feu moyen-élevé).",
+        "Laisser mijoter jusqu'à l'obtention d'une sauce onctueuse.",
+        "Si la sauce est trop épaisse, ajouter de l'eau ou du lait."
+      ]
+    },
+    {
+      "id": "sauce-bbq-pilons",
+      "nom": "Sauce BBQ pour pilons de poulet",
+      "categorie": "sauces",
+      "portions": 4,
+      "portions_label": "portions (8 pilons)",
+      "note": "Coup de cœur d'Annabelle",
+      "ingredients": [
+        { "quantite": 30, "unite": "ml", "nom": "huile d'olive", "note": "2 c. à soupe" },
+        { "quantite": 1, "unite": "", "nom": "oignon, haché" },
+        { "quantite": 125, "unite": "ml", "nom": "ketchup", "note": "½ tasse" },
+        { "quantite": 60, "unite": "ml", "nom": "eau", "note": "¼ tasse" },
+        { "quantite": 60, "unite": "ml", "nom": "vinaigre de vin rouge", "note": "¼ tasse" },
+        { "quantite": 60, "unite": "ml", "nom": "miel liquide", "note": "¼ tasse" },
+        { "quantite": 1, "unite": "", "nom": "gousse d'ail, hachée" },
+        { "quantite": 30, "unite": "ml", "nom": "cassonade", "note": "2 c. à soupe" },
+        { "quantite": 15, "unite": "ml", "nom": "moutarde Dijon", "note": "1 c. à soupe" },
+        { "quantite": 15, "unite": "ml", "nom": "sauce soya", "note": "1 c. à soupe" },
+        { "quantite": 15, "unite": "ml", "nom": "sauce Worcestershire", "note": "1 c. à soupe" },
+        { "quantite": 15, "unite": "ml", "nom": "tabasco (facultatif)", "note": "1 c. à soupe" },
+        { "quantite": null, "unite": "", "nom": "sel et poivre (au goût)" }
+      ],
+      "preparation": [
+        "Dans une casserole, faire revenir l'oignon haché dans l'huile d'olive à feu moyen.",
+        "Ajouter l'ail et cuire 1 minute supplémentaire.",
+        "Incorporer tous les autres ingrédients et bien mélanger.",
+        "Laisser mijoter à feu doux 15 à 20 minutes jusqu'à ce que la sauce épaississe.",
+        "Badigeonner les pilons et cuire au four ou au barbecue jusqu'à cuisson complète."
+      ]
+    },
+    {
+      "id": "sauce-spaghetti",
+      "nom": "Sauce à spaghetti",
+      "categorie": "plats",
+      "portions": 10,
+      "portions_label": "portions",
+      "temps_prep": "40 min",
+      "temps_cuisson": "3 h 15",
+      "note": "Donne environ 5 L (20 tasses)",
+      "ingredients": [
+        { "quantite": 1360, "unite": "g", "nom": "viande hachée", "note": "3 lbs" },
+        { "quantite": 60, "unite": "ml", "nom": "huile d'olive", "note": "¼ tasse" },
+        { "quantite": null, "unite": "", "nom": "origan (au goût)" },
+        { "quantite": null, "unite": "", "nom": "clou de girofle (au goût)" },
+        { "quantite": null, "unite": "", "nom": "flocons de piment broyé (au goût)" },
+        { "quantite": 3, "unite": "", "nom": "oignons, hachés finement" },
+        { "quantite": 4, "unite": "", "nom": "carottes, coupées en dés" },
+        { "quantite": 4, "unite": "", "nom": "branches de céleri, coupées en dés" },
+        { "quantite": 4, "unite": "", "nom": "gousses d'ail, hachées finement" },
+        { "quantite": 156, "unite": "ml", "nom": "pâte de tomates (1 boîte)" },
+        { "quantite": 1592, "unite": "ml", "nom": "tomates italiennes en dés (2 boîtes de 796 ml)" },
+        { "quantite": 1592, "unite": "ml", "nom": "sauce tomate (2 boîtes de 796 ml)" },
+        { "quantite": 500, "unite": "ml", "nom": "bouillon de bœuf", "note": "2 tasses" }
+      ],
+      "preparation": [
+        "Dans une grande casserole à feu moyen-élevé, dorer la moitié de la viande à la fois dans 30 ml d'huile avec le piment. Ajouter de l'huile au besoin. Saler et poivrer. Réserver dans un bol.",
+        "Dans la même casserole, attendrir les oignons, les carottes, le céleri et l'ail dans le reste de l'huile. Saler et poivrer.",
+        "Ajouter la pâte de tomates et poursuivre la cuisson 1 minute à feu élevé en remuant.",
+        "Ajouter la viande réservée, les tomates, la sauce tomate, le bouillon, l'origan et les clous de girofle.",
+        "Porter à ébullition, puis laisser mijoter doucement 3 heures en remuant et raclant régulièrement le fond de la casserole, jusqu'à ce que la sauce épaississe.",
+        "Servir sur des pâtes au choix."
+      ]
+    },
+    {
+      "id": "pate-pizza-70",
+      "nom": "Pâte à pizza 70 %",
+      "categorie": "pates",
+      "portions": 1,
+      "portions_label": "pizza",
+      "note": "Pâte maniable, idéale pour débuter. Hydratation 70 %.",
+      "ingredients": [
+        { "quantite": 500, "unite": "g", "nom": "farine à pizza" },
+        { "quantite": 350, "unite": "g", "nom": "eau tiède" },
+        { "quantite": 10, "unite": "g", "nom": "sel" },
+        { "quantite": 5, "unite": "g", "nom": "levure active" }
+      ],
+      "preparation": [
+        "Peser la farine et y ajouter le sel.",
+        "Creuser un puit dans la farine et y verser la levure.",
+        "Verser l'eau tiède dans le puit et mélanger vigoureusement avec une spatule.",
+        "Couvrir d'un linge humide et laisser reposer 1 h 30.",
+        "Fariner légèrement et sortir la pâte du plat. Former des boules de 425 g.",
+        "Fariner et laisser reposer, couvert d'un linge sec, durant 1 h.",
+        "Délimiter la croûte du bout des doigts. Aplatir le centre et étirer délicatement avec les mains à plat.",
+        "Sans dégonfler la croûte, étirer à la dimension désirée, puis garnir.",
+        "Cuire à 450 °F (230 °C), grille centrale, de 10 à 15 minutes."
+      ]
+    },
+    {
+      "id": "pate-pizza-85",
+      "nom": "Pâte à pizza 85 %",
+      "categorie": "pates",
+      "portions": 1,
+      "portions_label": "pizza",
+      "note": "Pâte tendre, bien alvéolée, légère et croustillante. Aucun pétrissage requis. Utiliser impérativement une balance numérique. Ratio eau/farine : 85 %.",
+      "ingredients": [
+        { "quantite": null, "unite": "", "nom": "farine à pizza (peser selon le besoin)" },
+        { "quantite": null, "unite": "", "nom": "eau tiède (85 % du poids de farine)" },
+        { "quantite": null, "unite": "", "nom": "levure active" },
+        { "quantite": null, "unite": "", "nom": "sel" }
+      ],
+      "preparation": [
+        "Peser la farine et y ajouter le sel.",
+        "Creuser un puit dans la farine et y verser la levure.",
+        "Verser l'eau tiède dans le puit et mélanger vigoureusement avec une spatule.",
+        "Couvrir d'un linge humide et laisser reposer 1 h 30.",
+        "Fariner légèrement et sortir la pâte. Replier la pâte sur elle-même pour former une boule.",
+        "En tirant la pâte vers soi, tendre la pâte afin de former une belle boule.",
+        "Fariner et laisser reposer, couvert d'un linge sec, durant 1 h.",
+        "Délimiter la croûte du bout des doigts. Aplatir le centre et étirer délicatement avec les mains à plat.",
+        "Sans dégonfler la croûte, étirer à la dimension désirée, puis garnir.",
+        "Cuire à 450 °F (230 °C), grille centrale, de 10 à 15 minutes."
+      ]
+    }
+  ]
+}
