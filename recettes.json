@@ -1,10 +1,30 @@
 {
   "categories": [
-    { "id": "breuvages", "nom": "Breuvages", "emoji": "🍹" },
-    { "id": "sauces", "nom": "Sauces & Condiments", "emoji": "🫙" },
-    { "id": "pates", "nom": "Pâtes de base", "emoji": "🍞" },
-    { "id": "plats", "nom": "Plats principaux", "emoji": "🍲" },
-    { "id": "desserts", "nom": "Desserts", "emoji": "🍰" }
+    {
+      "id": "breuvages",
+      "nom": "Breuvages",
+      "emoji": "🍹"
+    },
+    {
+      "id": "sauces",
+      "nom": "Sauces & Condiments",
+      "emoji": "🫙"
+    },
+    {
+      "id": "pates",
+      "nom": "Pâtes de base",
+      "emoji": "🍞"
+    },
+    {
+      "id": "plats",
+      "nom": "Plats principaux",
+      "emoji": "🍲"
+    },
+    {
+      "id": "desserts",
+      "nom": "Desserts",
+      "emoji": "🍰"
+    }
   ],
   "recettes": [
     {
@@ -14,11 +34,32 @@
       "portions": 2,
       "portions_label": "verres",
       "ingredients": [
-        { "quantite": 3, "unite": "", "nom": "citrons (zeste et jus)" },
-        { "quantite": 112, "unite": "g", "nom": "sucre", "note": "½ tasse" },
-        { "quantite": 300, "unite": "ml", "nom": "eau (1re mesure)" },
-        { "quantite": 2, "unite": "", "nom": "sachets de thé noir" },
-        { "quantite": 300, "unite": "ml", "nom": "eau (2e mesure)" }
+        {
+          "quantite": 3,
+          "unite": "",
+          "nom": "citrons (zeste et jus)"
+        },
+        {
+          "quantite": 112,
+          "unite": "g",
+          "nom": "sucre",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 300,
+          "unite": "ml",
+          "nom": "eau (1re mesure)"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "sachets de thé noir"
+        },
+        {
+          "quantite": 300,
+          "unite": "ml",
+          "nom": "eau (2e mesure)"
+        }
       ],
       "preparation": [
         "Dans un petit bol, ajouter le sucre et le zeste de citron. Mélanger en frottant du bout des doigts pour extraire le plus d'huile de citron possible.",
@@ -35,15 +76,54 @@
       "portions_label": "tasses",
       "note": "Recette de Nathan",
       "ingredients": [
-        { "quantite": 500, "unite": "ml", "nom": "lait", "note": "2 tasses" },
-        { "quantite": 15, "unite": "ml", "nom": "thé chai" },
-        { "quantite": 1, "unite": "", "nom": "anis étoilée" },
-        { "quantite": null, "unite": "", "nom": "cardamome (au goût)" },
-        { "quantite": null, "unite": "", "nom": "muscade (au goût)" },
-        { "quantite": null, "unite": "", "nom": "gingembre (au goût)" },
-        { "quantite": null, "unite": "", "nom": "cannelle (au goût)" },
-        { "quantite": 2.5, "unite": "ml", "nom": "extrait de vanille", "note": "½ c. à thé" },
-        { "quantite": 15, "unite": "ml", "nom": "sirop d'érable", "note": "1 c. à soupe" }
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "lait",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "thé chai"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "anis étoilée"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "cardamome (au goût)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "muscade (au goût)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "gingembre (au goût)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "cannelle (au goût)"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "sirop d'érable",
+          "note": "1 c. à soupe"
+        }
       ],
       "preparation": [
         "Dans une casserole, mélanger tous les ingrédients sauf le sirop d'érable et la vanille.",
@@ -60,12 +140,37 @@
       "portions": 1,
       "portions_label": "lot (3 L)",
       "ingredients": [
-        { "quantite": 350, "unite": "ml", "nom": "culture liquide de kombucha (mère)" },
-        { "quantite": 12, "unite": "g", "nom": "thé (1 grand sachet)" },
-        { "quantite": 180, "unite": "g", "nom": "sucre", "note": "1 tasse" },
-        { "quantite": 500, "unite": "ml", "nom": "eau bouillante" },
-        { "quantite": 2500, "unite": "ml", "nom": "eau froide" },
-        { "quantite": 125, "unite": "ml", "nom": "jus ou purée de fruits (ananas, pomme, orange…)" }
+        {
+          "quantite": 350,
+          "unite": "ml",
+          "nom": "culture liquide de kombucha (mère)"
+        },
+        {
+          "quantite": 12,
+          "unite": "g",
+          "nom": "thé (1 grand sachet)"
+        },
+        {
+          "quantite": 180,
+          "unite": "g",
+          "nom": "sucre",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "eau bouillante"
+        },
+        {
+          "quantite": 2500,
+          "unite": "ml",
+          "nom": "eau froide"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "jus ou purée de fruits (ananas, pomme, orange…)"
+        }
       ],
       "preparation": [
         "Placer le sachet de thé dans une grande jarre. Verser l'eau bouillante, laisser infuser 15 minutes, puis retirer le sachet.",
@@ -84,11 +189,35 @@
       "portions_label": "lot (2 L)",
       "note": "Recette d'Annabelle",
       "ingredients": [
-        { "quantite": 125, "unite": "ml", "nom": "grains de kéfir", "note": "½ tasse" },
-        { "quantite": 80, "unite": "ml", "nom": "cassonade (ou sucre blanc + 1 c. à soupe mélasse)", "note": "⅓ tasse" },
-        { "quantite": 1, "unite": "", "nom": "tranche de citron" },
-        { "quantite": 1750, "unite": "ml", "nom": "eau", "note": "7 tasses" },
-        { "quantite": 400, "unite": "ml", "nom": "jus de fruits (pour 2e fermentation)", "note": "environ 20% du volume" }
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "grains de kéfir",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 80,
+          "unite": "ml",
+          "nom": "cassonade (ou sucre blanc + 1 c. à soupe mélasse)",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "tranche de citron"
+        },
+        {
+          "quantite": 1750,
+          "unite": "ml",
+          "nom": "eau",
+          "note": "7 tasses"
+        },
+        {
+          "quantite": 400,
+          "unite": "ml",
+          "nom": "jus de fruits (pour 2e fermentation)",
+          "note": "environ 20% du volume"
+        }
       ],
       "preparation": [
         "Dans un pot de 2 L : mélanger la cassonade, les grains de kéfir, la tranche de citron et l'eau.",
@@ -106,12 +235,37 @@
       "portions": 1,
       "portions_label": "verre",
       "ingredients": [
-        { "quantite": 7, "unite": "", "nom": "boules de crème glacée à la vanille" },
-        { "quantite": 5, "unite": "", "nom": "glaçons" },
-        { "quantite": 10, "unite": "ml", "nom": "mix cacao-lavande", "note": "2 c. à thé" },
-        { "quantite": 2, "unite": "", "nom": "doubles espressos" },
-        { "quantite": 14, "unite": "", "nom": "pistoles de chocolat" },
-        { "quantite": 1, "unite": "", "nom": "cube de sucre" }
+        {
+          "quantite": 7,
+          "unite": "",
+          "nom": "boules de crème glacée à la vanille"
+        },
+        {
+          "quantite": 5,
+          "unite": "",
+          "nom": "glaçons"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "mix cacao-lavande",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "doubles espressos"
+        },
+        {
+          "quantite": 14,
+          "unite": "",
+          "nom": "pistoles de chocolat"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "cube de sucre"
+        }
       ],
       "preparation": [
         "Placer tous les ingrédients dans le mélangeur.",
@@ -126,9 +280,21 @@
       "portions": 1,
       "portions_label": "portion",
       "ingredients": [
-        { "quantite": 400, "unite": "g", "nom": "fruits (+ glace si non congelés)" },
-        { "quantite": 250, "unite": "g", "nom": "jus de fruits" },
-        { "quantite": 25, "unite": "g", "nom": "jus de citron" }
+        {
+          "quantite": 400,
+          "unite": "g",
+          "nom": "fruits (+ glace si non congelés)"
+        },
+        {
+          "quantite": 250,
+          "unite": "g",
+          "nom": "jus de fruits"
+        },
+        {
+          "quantite": 25,
+          "unite": "g",
+          "nom": "jus de citron"
+        }
       ],
       "preparation": [
         "Placer tous les ingrédients dans le mélangeur.",
@@ -143,14 +309,46 @@
       "portions": 4,
       "portions_label": "portions",
       "ingredients": [
-        { "quantite": 2, "unite": "", "nom": "gousses d'ail" },
-        { "quantite": 2, "unite": "", "nom": "citrons (jus)" },
-        { "quantite": 550, "unite": "ml", "nom": "pois chiches (cuits ou en conserve)" },
-        { "quantite": 150, "unite": "ml", "nom": "eau" },
-        { "quantite": 125, "unite": "ml", "nom": "beurre de sésame (tahini)" },
-        { "quantite": null, "unite": "", "nom": "cumin moulu (au goût)" },
-        { "quantite": null, "unite": "", "nom": "piment de cayenne (au goût)" },
-        { "quantite": null, "unite": "", "nom": "sel (au goût)" }
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "gousses d'ail"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "citrons (jus)"
+        },
+        {
+          "quantite": 550,
+          "unite": "ml",
+          "nom": "pois chiches (cuits ou en conserve)"
+        },
+        {
+          "quantite": 150,
+          "unite": "ml",
+          "nom": "eau"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "beurre de sésame (tahini)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "cumin moulu (au goût)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "piment de cayenne (au goût)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "sel (au goût)"
+        }
       ],
       "preparation": [
         "Placer tous les ingrédients dans le robot culinaire.",
@@ -167,9 +365,24 @@
       "portions_label": "portions",
       "note": "Donne environ 1 pot masson moyen. Se conserve 5 jours au réfrigérateur.",
       "ingredients": [
-        { "quantite": 125, "unite": "ml", "nom": "eau", "note": "½ tasse" },
-        { "quantite": 440, "unite": "g", "nom": "pommes non pelées, épépinées et coupées en cubes", "note": "~4 pommes" },
-        { "quantite": 1.67, "unite": "ml", "nom": "cannelle (facultatif)", "note": "⅓ c. à thé" }
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "eau",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 440,
+          "unite": "g",
+          "nom": "pommes non pelées, épépinées et coupées en cubes",
+          "note": "~4 pommes"
+        },
+        {
+          "quantite": 1.67,
+          "unite": "ml",
+          "nom": "cannelle (facultatif)",
+          "note": "⅓ c. à thé"
+        }
       ],
       "preparation": [
         "Dans une casserole, porter l'eau et les pommes à ébullition.",
@@ -186,12 +399,42 @@
       "portions": 4,
       "portions_label": "pots masson",
       "ingredients": [
-        { "quantite": 2500, "unite": "g", "nom": "pommes avec pelures", "note": "2,5 kg / 5½ lbs" },
-        { "quantite": 250, "unite": "ml", "nom": "cassonade", "note": "1 tasse" },
-        { "quantite": 250, "unite": "ml", "nom": "sucre", "note": "1 tasse" },
-        { "quantite": 15, "unite": "ml", "nom": "cannelle", "note": "1 c. à soupe" },
-        { "quantite": 10, "unite": "ml", "nom": "extrait de vanille", "note": "2 c. à thé" },
-        { "quantite": 1.25, "unite": "ml", "nom": "sel", "note": "¼ c. à thé" }
+        {
+          "quantite": 2500,
+          "unite": "g",
+          "nom": "pommes avec pelures",
+          "note": "2,5 kg / 5½ lbs"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "cassonade",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "sucre",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "cannelle",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 1.25,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "¼ c. à thé"
+        }
       ],
       "preparation": [
         "Retirer le cœur des pommes et les couper en morceaux. Déposer dans la mijoteuse.",
@@ -210,11 +453,34 @@
       "portions_label": "portions",
       "note": "Donne environ 500 ml (2 tasses)",
       "ingredients": [
-        { "quantite": 45, "unite": "ml", "nom": "beurre", "note": "3 c. à soupe" },
-        { "quantite": 45, "unite": "ml", "nom": "farine", "note": "3 c. à soupe" },
-        { "quantite": 500, "unite": "ml", "nom": "lait", "note": "2 tasses" },
-        { "quantite": null, "unite": "", "nom": "une pincée de muscade" },
-        { "quantite": null, "unite": "", "nom": "une pincée de sel" }
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "beurre",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "farine",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "lait",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "une pincée de muscade"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "une pincée de sel"
+        }
       ],
       "preparation": [
         "Faire fondre le beurre à feu moyen dans une casserole.",
@@ -232,19 +498,81 @@
       "portions_label": "portions (8 pilons)",
       "note": "Coup de cœur d'Annabelle",
       "ingredients": [
-        { "quantite": 30, "unite": "ml", "nom": "huile d'olive", "note": "2 c. à soupe" },
-        { "quantite": 1, "unite": "", "nom": "oignon, haché" },
-        { "quantite": 125, "unite": "ml", "nom": "ketchup", "note": "½ tasse" },
-        { "quantite": 60, "unite": "ml", "nom": "eau", "note": "¼ tasse" },
-        { "quantite": 60, "unite": "ml", "nom": "vinaigre de vin rouge", "note": "¼ tasse" },
-        { "quantite": 60, "unite": "ml", "nom": "miel liquide", "note": "¼ tasse" },
-        { "quantite": 1, "unite": "", "nom": "gousse d'ail, hachée" },
-        { "quantite": 30, "unite": "ml", "nom": "cassonade", "note": "2 c. à soupe" },
-        { "quantite": 15, "unite": "ml", "nom": "moutarde Dijon", "note": "1 c. à soupe" },
-        { "quantite": 15, "unite": "ml", "nom": "sauce soya", "note": "1 c. à soupe" },
-        { "quantite": 15, "unite": "ml", "nom": "sauce Worcestershire", "note": "1 c. à soupe" },
-        { "quantite": 15, "unite": "ml", "nom": "tabasco (facultatif)", "note": "1 c. à soupe" },
-        { "quantite": null, "unite": "", "nom": "sel et poivre (au goût)" }
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "huile d'olive",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "oignon, haché"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "ketchup",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "eau",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "vinaigre de vin rouge",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "miel liquide",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "gousse d'ail, hachée"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "cassonade",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "moutarde Dijon",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "sauce soya",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "sauce Worcestershire",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "tabasco (facultatif)",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "sel et poivre (au goût)"
+        }
       ],
       "preparation": [
         "Dans une casserole, faire revenir l'oignon haché dans l'huile d'olive à feu moyen.",
@@ -264,19 +592,74 @@
       "temps_cuisson": "3 h 15",
       "note": "Donne environ 5 L (20 tasses)",
       "ingredients": [
-        { "quantite": 1360, "unite": "g", "nom": "viande hachée", "note": "3 lbs" },
-        { "quantite": 60, "unite": "ml", "nom": "huile d'olive", "note": "¼ tasse" },
-        { "quantite": null, "unite": "", "nom": "origan (au goût)" },
-        { "quantite": null, "unite": "", "nom": "clou de girofle (au goût)" },
-        { "quantite": null, "unite": "", "nom": "flocons de piment broyé (au goût)" },
-        { "quantite": 3, "unite": "", "nom": "oignons, hachés finement" },
-        { "quantite": 4, "unite": "", "nom": "carottes, coupées en dés" },
-        { "quantite": 4, "unite": "", "nom": "branches de céleri, coupées en dés" },
-        { "quantite": 4, "unite": "", "nom": "gousses d'ail, hachées finement" },
-        { "quantite": 156, "unite": "ml", "nom": "pâte de tomates (1 boîte)" },
-        { "quantite": 1592, "unite": "ml", "nom": "tomates italiennes en dés (2 boîtes de 796 ml)" },
-        { "quantite": 1592, "unite": "ml", "nom": "sauce tomate (2 boîtes de 796 ml)" },
-        { "quantite": 500, "unite": "ml", "nom": "bouillon de bœuf", "note": "2 tasses" }
+        {
+          "quantite": 1360,
+          "unite": "g",
+          "nom": "viande hachée",
+          "note": "3 lbs"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "huile d'olive",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "origan (au goût)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "clou de girofle (au goût)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "flocons de piment broyé (au goût)"
+        },
+        {
+          "quantite": 3,
+          "unite": "",
+          "nom": "oignons, hachés finement"
+        },
+        {
+          "quantite": 4,
+          "unite": "",
+          "nom": "carottes, coupées en dés"
+        },
+        {
+          "quantite": 4,
+          "unite": "",
+          "nom": "branches de céleri, coupées en dés"
+        },
+        {
+          "quantite": 4,
+          "unite": "",
+          "nom": "gousses d'ail, hachées finement"
+        },
+        {
+          "quantite": 156,
+          "unite": "ml",
+          "nom": "pâte de tomates (1 boîte)"
+        },
+        {
+          "quantite": 1592,
+          "unite": "ml",
+          "nom": "tomates italiennes en dés (2 boîtes de 796 ml)"
+        },
+        {
+          "quantite": 1592,
+          "unite": "ml",
+          "nom": "sauce tomate (2 boîtes de 796 ml)"
+        },
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "bouillon de bœuf",
+          "note": "2 tasses"
+        }
       ],
       "preparation": [
         "Dans une grande casserole à feu moyen-élevé, dorer la moitié de la viande à la fois dans 30 ml d'huile avec le piment. Ajouter de l'huile au besoin. Saler et poivrer. Réserver dans un bol.",
@@ -295,10 +678,26 @@
       "portions_label": "pizza",
       "note": "Pâte maniable, idéale pour débuter. Hydratation 70 %.",
       "ingredients": [
-        { "quantite": 500, "unite": "g", "nom": "farine à pizza" },
-        { "quantite": 350, "unite": "g", "nom": "eau tiède" },
-        { "quantite": 10, "unite": "g", "nom": "sel" },
-        { "quantite": 5, "unite": "g", "nom": "levure active" }
+        {
+          "quantite": 500,
+          "unite": "g",
+          "nom": "farine à pizza"
+        },
+        {
+          "quantite": 350,
+          "unite": "g",
+          "nom": "eau tiède"
+        },
+        {
+          "quantite": 10,
+          "unite": "g",
+          "nom": "sel"
+        },
+        {
+          "quantite": 5,
+          "unite": "g",
+          "nom": "levure active"
+        }
       ],
       "preparation": [
         "Peser la farine et y ajouter le sel.",
@@ -320,10 +719,26 @@
       "portions_label": "pizza",
       "note": "Pâte tendre, bien alvéolée, légère et croustillante. Aucun pétrissage requis. Utiliser impérativement une balance numérique. Ratio eau/farine : 85 %.",
       "ingredients": [
-        { "quantite": null, "unite": "", "nom": "farine à pizza (peser selon le besoin)" },
-        { "quantite": null, "unite": "", "nom": "eau tiède (85 % du poids de farine)" },
-        { "quantite": null, "unite": "", "nom": "levure active" },
-        { "quantite": null, "unite": "", "nom": "sel" }
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "farine à pizza (peser selon le besoin)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "eau tiède (85 % du poids de farine)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "levure active"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "sel"
+        }
       ],
       "preparation": [
         "Peser la farine et y ajouter le sel.",
@@ -345,11 +760,36 @@
       "portions": 1,
       "portions_label": "abaisse",
       "ingredients": [
-        { "quantite": 30, "unite": "ml", "nom": "sucre", "note": "2 c. à soupe" },
-        { "quantite": 5, "unite": "ml", "nom": "sel", "note": "1 c. à thé" },
-        { "quantite": 315, "unite": "g", "nom": "farine tout usage", "note": "2½ tasses" },
-        { "quantite": 280, "unite": "g", "nom": "beurre non salé réfrigéré", "note": "1¼ tasse (2½ bâtonnets)" },
-        { "quantite": 105, "unite": "ml", "nom": "eau glacée", "note": "7 c. à soupe" }
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "sucre",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 315,
+          "unite": "g",
+          "nom": "farine tout usage",
+          "note": "2½ tasses"
+        },
+        {
+          "quantite": 280,
+          "unite": "g",
+          "nom": "beurre non salé réfrigéré",
+          "note": "1¼ tasse (2½ bâtonnets)"
+        },
+        {
+          "quantite": 105,
+          "unite": "ml",
+          "nom": "eau glacée",
+          "note": "7 c. à soupe"
+        }
       ],
       "preparation": [
         "Dans un grand bol, mélanger le sucre, le sel et la farine. Râper ¾ tasse de beurre sur les gros trous d'une râpe directement dans le bol, en travaillant rapidement.",
@@ -368,15 +808,55 @@
       "portions_label": "pain",
       "note": "Le tangzhong (pâte de farine cuite) donne au pain une mie exceptionnellement tendre.",
       "ingredients": [
-        { "quantite": 40, "unite": "g", "nom": "farine à pain (pour le tangzhong)", "note": "2 c. à soupe" },
-        { "quantite": 180, "unite": "g", "nom": "eau (pour le tangzhong)" },
-        { "quantite": 600, "unite": "g", "nom": "farine à pain" },
-        { "quantite": 7, "unite": "g", "nom": "levure à action rapide", "note": "1 sachet" },
-        { "quantite": 240, "unite": "g", "nom": "lait tiède" },
-        { "quantite": 60, "unite": "g", "nom": "beurre fondu" },
-        { "quantite": 10, "unite": "ml", "nom": "sel", "note": "2 c. à thé" },
-        { "quantite": 75, "unite": "g", "nom": "sucre", "note": "6 c. à soupe" },
-        { "quantite": 2, "unite": "", "nom": "œufs (dont 1 pour la dorure)" }
+        {
+          "quantite": 40,
+          "unite": "g",
+          "nom": "farine à pain (pour le tangzhong)",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 180,
+          "unite": "g",
+          "nom": "eau (pour le tangzhong)"
+        },
+        {
+          "quantite": 600,
+          "unite": "g",
+          "nom": "farine à pain"
+        },
+        {
+          "quantite": 7,
+          "unite": "g",
+          "nom": "levure à action rapide",
+          "note": "1 sachet"
+        },
+        {
+          "quantite": 240,
+          "unite": "g",
+          "nom": "lait tiède"
+        },
+        {
+          "quantite": 60,
+          "unite": "g",
+          "nom": "beurre fondu"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 75,
+          "unite": "g",
+          "nom": "sucre",
+          "note": "6 c. à soupe"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "œufs (dont 1 pour la dorure)"
+        }
       ],
       "preparation": [
         "Tangzhong : mélanger l'eau et la farine dans une petite casserole avant d'allumer le feu. Chauffer à feu moyen-doux en remuant constamment jusqu'à épaississement. Laisser refroidir.",
@@ -396,15 +876,53 @@
       "portions_label": "bagels",
       "note": "Pâte assez sèche — c'est normal. Utiliser une surface non farinée pour pétrir et façonner.",
       "ingredients": [
-        { "quantite": 1000, "unite": "g", "nom": "farine à pain", "note": "1 kg" },
-        { "quantite": 2, "unite": "g", "nom": "levure instantanée" },
-        { "quantite": 40, "unite": "g", "nom": "sucre" },
-        { "quantite": 9, "unite": "g", "nom": "extrait sec de malt (facultatif)" },
-        { "quantite": 1, "unite": "", "nom": "œuf" },
-        { "quantite": 465, "unite": "g", "nom": "eau tiède" },
-        { "quantite": 12, "unite": "ml", "nom": "huile végétale" },
-        { "quantite": 60, "unite": "ml", "nom": "miel (pour l'eau de cuisson)", "note": "¼ tasse" },
-        { "quantite": 100, "unite": "g", "nom": "graines de sésame" }
+        {
+          "quantite": 1000,
+          "unite": "g",
+          "nom": "farine à pain",
+          "note": "1 kg"
+        },
+        {
+          "quantite": 2,
+          "unite": "g",
+          "nom": "levure instantanée"
+        },
+        {
+          "quantite": 40,
+          "unite": "g",
+          "nom": "sucre"
+        },
+        {
+          "quantite": 9,
+          "unite": "g",
+          "nom": "extrait sec de malt (facultatif)"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "œuf"
+        },
+        {
+          "quantite": 465,
+          "unite": "g",
+          "nom": "eau tiède"
+        },
+        {
+          "quantite": 12,
+          "unite": "ml",
+          "nom": "huile végétale"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "miel (pour l'eau de cuisson)",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 100,
+          "unite": "g",
+          "nom": "graines de sésame"
+        }
       ],
       "preparation": [
         "Mélanger les ingrédients humides aux secs pour obtenir une pâte en lambeaux.",
@@ -423,16 +941,62 @@
       "portions": 12,
       "portions_label": "brioches",
       "ingredients": [
-        { "quantite": 310, "unite": "g", "nom": "babeurre (lait de beurre) tiède" },
-        { "quantite": 50, "unite": "g", "nom": "sucre" },
-        { "quantite": 450, "unite": "g", "nom": "farine tout usage non blanchie" },
-        { "quantite": 4, "unite": "g", "nom": "levure instantanée", "note": "2 c. à thé" },
-        { "quantite": 2.5, "unite": "ml", "nom": "sel", "note": "½ c. à thé" },
-        { "quantite": 75, "unite": "g", "nom": "beurre non salé fondu" },
-        { "quantite": 125, "unite": "ml", "nom": "beurre fondu (garniture)", "note": "½ tasse" },
-        { "quantite": 180, "unite": "ml", "nom": "cassonade (garniture)", "note": "¾ tasse" },
-        { "quantite": 180, "unite": "ml", "nom": "sucre (garniture)", "note": "¾ tasse" },
-        { "quantite": 7.5, "unite": "ml", "nom": "cannelle moulue (garniture)", "note": "1½ c. à thé" }
+        {
+          "quantite": 310,
+          "unite": "g",
+          "nom": "babeurre (lait de beurre) tiède"
+        },
+        {
+          "quantite": 50,
+          "unite": "g",
+          "nom": "sucre"
+        },
+        {
+          "quantite": 450,
+          "unite": "g",
+          "nom": "farine tout usage non blanchie"
+        },
+        {
+          "quantite": 4,
+          "unite": "g",
+          "nom": "levure instantanée",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 75,
+          "unite": "g",
+          "nom": "beurre non salé fondu"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "beurre fondu (garniture)",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 180,
+          "unite": "ml",
+          "nom": "cassonade (garniture)",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 180,
+          "unite": "ml",
+          "nom": "sucre (garniture)",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 7.5,
+          "unite": "ml",
+          "nom": "cannelle moulue (garniture)",
+          "note": "1½ c. à thé"
+        }
       ],
       "preparation": [
         "Dans un bol, mélanger le babeurre et le sucre. Dans un grand bol, combiner la farine, la levure et le sel. Ajouter le babeurre sucré et mélanger jusqu'à formation de la pâte.",
@@ -451,19 +1015,80 @@
       "portions_label": "portions",
       "note": "Se congèle bien, cuit ou non cuit, bien enveloppé dans du papier d'aluminium.",
       "ingredients": [
-        { "quantite": 250, "unite": "ml", "nom": "miettes de pain", "note": "1 tasse" },
-        { "quantite": 80, "unite": "ml", "nom": "lait entier", "note": "⅓ tasse" },
-        { "quantite": 1, "unite": "", "nom": "oignon moyen, finement haché" },
-        { "quantite": 1, "unite": "", "nom": "branche de céleri, en cubes" },
-        { "quantite": 4, "unite": "", "nom": "gousses d'ail, finement hachées" },
-        { "quantite": 11, "unite": "ml", "nom": "sel", "note": "2¼ c. à thé" },
-        { "quantite": 7.5, "unite": "ml", "nom": "poivre noir", "note": "1½ c. à thé" },
-        { "quantite": 680, "unite": "g", "nom": "bœuf haché", "note": "1½ lb" },
-        { "quantite": 225, "unite": "g", "nom": "porc haché", "note": "½ lb" },
-        { "quantite": 2, "unite": "", "nom": "gros œufs" },
-        { "quantite": 30, "unite": "ml", "nom": "huile végétale", "note": "2 c. à soupe" },
-        { "quantite": 45, "unite": "ml", "nom": "sauce Worcestershire", "note": "3 c. à soupe" },
-        { "quantite": 125, "unite": "ml", "nom": "ketchup (chili sauce)", "note": "½ tasse, divisée" }
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "miettes de pain",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 80,
+          "unite": "ml",
+          "nom": "lait entier",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "oignon moyen, finement haché"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "branche de céleri, en cubes"
+        },
+        {
+          "quantite": 4,
+          "unite": "",
+          "nom": "gousses d'ail, finement hachées"
+        },
+        {
+          "quantite": 11,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "2¼ c. à thé"
+        },
+        {
+          "quantite": 7.5,
+          "unite": "ml",
+          "nom": "poivre noir",
+          "note": "1½ c. à thé"
+        },
+        {
+          "quantite": 680,
+          "unite": "g",
+          "nom": "bœuf haché",
+          "note": "1½ lb"
+        },
+        {
+          "quantite": 225,
+          "unite": "g",
+          "nom": "porc haché",
+          "note": "½ lb"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "gros œufs"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "huile végétale",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "sauce Worcestershire",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "ketchup (chili sauce)",
+          "note": "½ tasse, divisée"
+        }
       ],
       "preparation": [
         "Dans un grand bol, combiner les miettes de pain et le lait. Réserver.",
@@ -481,19 +1106,82 @@
       "portions": 8,
       "portions_label": "portions",
       "ingredients": [
-        { "quantite": 45, "unite": "ml", "nom": "beurre", "note": "3 c. à soupe" },
-        { "quantite": 2, "unite": "", "nom": "petits oignons, finement hachés" },
-        { "quantite": 2000, "unite": "ml", "nom": "eau bouillante", "note": "8 tasses" },
-        { "quantite": 250, "unite": "ml", "nom": "orge", "note": "1 tasse" },
-        { "quantite": 7.5, "unite": "ml", "nom": "sel", "note": "1½ c. à thé" },
-        { "quantite": 2.5, "unite": "ml", "nom": "poivre", "note": "½ c. à thé" },
-        { "quantite": 750, "unite": "ml", "nom": "épinards déchiquetés", "note": "3 tasses" },
-        { "quantite": 250, "unite": "ml", "nom": "chou haché", "note": "1 tasse" },
-        { "quantite": 60, "unite": "ml", "nom": "carottes râpées", "note": "¼ tasse" },
-        { "quantite": 60, "unite": "ml", "nom": "petits pois frais ou persil haché", "note": "¼ tasse" },
-        { "quantite": 1, "unite": "", "nom": "cube de bouillon de bœuf ou de poulet" },
-        { "quantite": 5, "unite": "ml", "nom": "fines herbes", "note": "1 c. à thé" },
-        { "quantite": 284, "unite": "ml", "nom": "soupe aux tomates en conserve (ou sauce tomate mutti)", "note": "1 boîte de 10 oz" }
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "beurre",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "petits oignons, finement hachés"
+        },
+        {
+          "quantite": 2000,
+          "unite": "ml",
+          "nom": "eau bouillante",
+          "note": "8 tasses"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "orge",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 7.5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "1½ c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "poivre",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 750,
+          "unite": "ml",
+          "nom": "épinards déchiquetés",
+          "note": "3 tasses"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "chou haché",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "carottes râpées",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "petits pois frais ou persil haché",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "cube de bouillon de bœuf ou de poulet"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "fines herbes",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 284,
+          "unite": "ml",
+          "nom": "soupe aux tomates en conserve (ou sauce tomate mutti)",
+          "note": "1 boîte de 10 oz"
+        }
       ],
       "preparation": [
         "Cuire l'orge dans une casserole d'eau bouillante salée. Égoutter et réserver.",
@@ -513,21 +1201,93 @@
       "temps_prep": "30 min",
       "temps_cuisson": "25 min",
       "ingredients": [
-        { "quantite": 225, "unite": "g", "nom": "viande hachée maigre", "note": "½ lb" },
-        { "quantite": 750, "unite": "ml", "nom": "chou vert émincé finement", "note": "3 tasses, environ ½ chou" },
-        { "quantite": 1, "unite": "", "nom": "gros oignon, émincé finement" },
-        { "quantite": 2, "unite": "", "nom": "carottes, pelées et râpées" },
-        { "quantite": 45, "unite": "ml", "nom": "huile de canola", "note": "3 c. à soupe" },
-        { "quantite": 60, "unite": "ml", "nom": "sauce au poisson (nuoc-mam)", "note": "¼ tasse" },
-        { "quantite": 5, "unite": "ml", "nom": "sambal oelek", "note": "1 c. à thé" },
-        { "quantite": 500, "unite": "ml", "nom": "vermicelles de riz concassés et cuits", "note": "2 tasses" },
-        { "quantite": 10, "unite": "", "nom": "feuilles de pâte phyllo" },
-        { "quantite": 75, "unite": "ml", "nom": "huile de canola (pour badigeonner)", "note": "⅓ tasse" },
-        { "quantite": 30, "unite": "ml", "nom": "sauce au poisson (sauce)", "note": "2 c. à soupe" },
-        { "quantite": 20, "unite": "ml", "nom": "sucre (sauce)", "note": "4 c. à thé" },
-        { "quantite": 15, "unite": "ml", "nom": "vinaigre de riz (sauce)", "note": "1 c. à soupe" },
-        { "quantite": 60, "unite": "ml", "nom": "eau (sauce)", "note": "¼ tasse" },
-        { "quantite": 5, "unite": "ml", "nom": "sambal oelek (sauce)", "note": "1 c. à thé" }
+        {
+          "quantite": 225,
+          "unite": "g",
+          "nom": "viande hachée maigre",
+          "note": "½ lb"
+        },
+        {
+          "quantite": 750,
+          "unite": "ml",
+          "nom": "chou vert émincé finement",
+          "note": "3 tasses, environ ½ chou"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "gros oignon, émincé finement"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "carottes, pelées et râpées"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "huile de canola",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "sauce au poisson (nuoc-mam)",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "sambal oelek",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "vermicelles de riz concassés et cuits",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 10,
+          "unite": "",
+          "nom": "feuilles de pâte phyllo"
+        },
+        {
+          "quantite": 75,
+          "unite": "ml",
+          "nom": "huile de canola (pour badigeonner)",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "sauce au poisson (sauce)",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 20,
+          "unite": "ml",
+          "nom": "sucre (sauce)",
+          "note": "4 c. à thé"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "vinaigre de riz (sauce)",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "eau (sauce)",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "sambal oelek (sauce)",
+          "note": "1 c. à thé"
+        }
       ],
       "preparation": [
         "Faire revenir la viande et les légumes dans l'huile de 8 à 10 minutes jusqu'à ce que les légumes soient tendres. Ajouter la sauce au poisson et le sambal oelek. Laisser réduire presque à sec. Retirer du feu, ajouter les vermicelles. Laisser tiédir.",
@@ -544,19 +1304,81 @@
       "portions": 4,
       "portions_label": "portions",
       "ingredients": [
-        { "quantite": 250, "unite": "ml", "nom": "farine tout usage", "note": "1 tasse" },
-        { "quantite": 125, "unite": "ml", "nom": "eau tiède", "note": "½ tasse" },
-        { "quantite": 140, "unite": "g", "nom": "chou vert, haché finement", "note": "2-3 feuilles" },
-        { "quantite": 15, "unite": "g", "nom": "oignons verts, hachés", "note": "2 tiges" },
-        { "quantite": 2, "unite": "", "nom": "champignons shiitake, hachés" },
-        { "quantite": 340, "unite": "g", "nom": "porc haché" },
-        { "quantite": 2, "unite": "", "nom": "gousses d'ail, finement râpées" },
-        { "quantite": 5, "unite": "ml", "nom": "gingembre râpé", "note": "1 c. à thé" },
-        { "quantite": 5, "unite": "ml", "nom": "saké (facultatif)", "note": "1 c. à thé" },
-        { "quantite": 5, "unite": "ml", "nom": "huile de sésame grillé", "note": "1 c. à thé" },
-        { "quantite": 5, "unite": "ml", "nom": "sauce soja", "note": "1 c. à thé" },
-        { "quantite": 2.5, "unite": "ml", "nom": "sel", "note": "½ c. à thé" },
-        { "quantite": 1.25, "unite": "ml", "nom": "poivre noir", "note": "¼ c. à thé" }
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "farine tout usage",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "eau tiède",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 140,
+          "unite": "g",
+          "nom": "chou vert, haché finement",
+          "note": "2-3 feuilles"
+        },
+        {
+          "quantite": 15,
+          "unite": "g",
+          "nom": "oignons verts, hachés",
+          "note": "2 tiges"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "champignons shiitake, hachés"
+        },
+        {
+          "quantite": 340,
+          "unite": "g",
+          "nom": "porc haché"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "gousses d'ail, finement râpées"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "gingembre râpé",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "saké (facultatif)",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "huile de sésame grillé",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "sauce soja",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 1.25,
+          "unite": "ml",
+          "nom": "poivre noir",
+          "note": "¼ c. à thé"
+        }
       ],
       "preparation": [
         "Pâte : mélanger la farine et l'eau tiède pour obtenir une pâte ferme et sans grumeaux. Laisser reposer couvert à l'abri de l'air.",
@@ -575,23 +1397,101 @@
       "temps_prep": "30 min",
       "temps_cuisson": "1 h 30",
       "ingredients": [
-        { "quantite": 45, "unite": "ml", "nom": "beurre (beurre manié)", "note": "3 c. à soupe" },
-        { "quantite": 45, "unite": "ml", "nom": "farine (beurre manié)", "note": "3 c. à soupe" },
-        { "quantite": 140, "unite": "g", "nom": "lard salé, en dés" },
-        { "quantite": 1100, "unite": "g", "nom": "cubes de bœuf" },
-        { "quantite": 30, "unite": "ml", "nom": "huile d'olive", "note": "2 c. à soupe" },
-        { "quantite": 1, "unite": "", "nom": "gros oignon, haché" },
-        { "quantite": 1, "unite": "", "nom": "carotte, en dés" },
-        { "quantite": 2, "unite": "", "nom": "gousses d'ail, hachées" },
-        { "quantite": 45, "unite": "ml", "nom": "brandy", "note": "3 c. à soupe" },
-        { "quantite": 500, "unite": "ml", "nom": "vin rouge", "note": "2 tasses" },
-        { "quantite": 500, "unite": "ml", "nom": "bouillon de bœuf", "note": "2 tasses" },
-        { "quantite": 1, "unite": "", "nom": "branche de thym frais" },
-        { "quantite": 1, "unite": "", "nom": "feuille de laurier" },
-        { "quantite": 225, "unite": "g", "nom": "champignons blancs, coupés en deux", "note": "garniture" },
-        { "quantite": 170, "unite": "g", "nom": "petits oignons blancs perlés", "note": "garniture" },
-        { "quantite": 45, "unite": "ml", "nom": "beurre (garniture)", "note": "3 c. à soupe" },
-        { "quantite": 30, "unite": "ml", "nom": "persil ciselé", "note": "2 c. à soupe" }
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "beurre (beurre manié)",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "farine (beurre manié)",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 140,
+          "unite": "g",
+          "nom": "lard salé, en dés"
+        },
+        {
+          "quantite": 1100,
+          "unite": "g",
+          "nom": "cubes de bœuf"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "huile d'olive",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "gros oignon, haché"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "carotte, en dés"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "gousses d'ail, hachées"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "brandy",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "vin rouge",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "bouillon de bœuf",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "branche de thym frais"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "feuille de laurier"
+        },
+        {
+          "quantite": 225,
+          "unite": "g",
+          "nom": "champignons blancs, coupés en deux",
+          "note": "garniture"
+        },
+        {
+          "quantite": 170,
+          "unite": "g",
+          "nom": "petits oignons blancs perlés",
+          "note": "garniture"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "beurre (garniture)",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "persil ciselé",
+          "note": "2 c. à soupe"
+        }
       ],
       "preparation": [
         "Préchauffer le four à 325 °F (160 °C). Dans un petit bol, mélanger le beurre et la farine pour former le beurre manié. Réserver.",
@@ -610,15 +1510,60 @@
       "portions_label": "portions",
       "note": "Sauce de Nathan : 3 c. à soupe chacune de sauce soya, vinaigre de riz, miel et eau + 1 c. à soupe huile de sésame + 2 c. à thé fécule de maïs + gingembre et ail au goût.",
       "ingredients": [
-        { "quantite": 30, "unite": "ml", "nom": "eau", "note": "2 c. à soupe" },
-        { "quantite": 30, "unite": "ml", "nom": "vinaigre", "note": "2 c. à soupe" },
-        { "quantite": 30, "unite": "ml", "nom": "sauce soya", "note": "2 c. à soupe" },
-        { "quantite": 15, "unite": "ml", "nom": "sirop d'érable", "note": "1 c. à soupe" },
-        { "quantite": 5, "unite": "ml", "nom": "gingembre, finement haché", "note": "1 c. à thé" },
-        { "quantite": 7.5, "unite": "ml", "nom": "fécule de maïs", "note": "½ c. à soupe" },
-        { "quantite": 5, "unite": "ml", "nom": "sauce piquante", "note": "1 c. à thé" },
-        { "quantite": 500, "unite": "ml", "nom": "légumes à cuisson longue (oignons, carottes, céleri, brocoli…)", "note": "2 tasses" },
-        { "quantite": 750, "unite": "ml", "nom": "légumes à cuisson rapide (pois mange-tout, poivrons, bok choy, fèves germées…)", "note": "3 tasses" }
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "eau",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "vinaigre",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "sauce soya",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "sirop d'érable",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "gingembre, finement haché",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 7.5,
+          "unite": "ml",
+          "nom": "fécule de maïs",
+          "note": "½ c. à soupe"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "sauce piquante",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "légumes à cuisson longue (oignons, carottes, céleri, brocoli…)",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 750,
+          "unite": "ml",
+          "nom": "légumes à cuisson rapide (pois mange-tout, poivrons, bok choy, fèves germées…)",
+          "note": "3 tasses"
+        }
       ],
       "preparation": [
         "Faire revenir les légumes à cuisson longue dans un wok ou une grande poêle huilée à feu vif, de 5 à 8 minutes.",
@@ -638,20 +1583,82 @@
       "temps_prep": "35 min",
       "temps_cuisson": "10 min",
       "ingredients": [
-        { "quantite": 450, "unite": "g", "nom": "poulet, coupé en lanières" },
-        { "quantite": 15, "unite": "ml", "nom": "huile de tournesol", "note": "1 c. à soupe" },
-        { "quantite": 0.5, "unite": "", "nom": "oignon rouge, émincé" },
-        { "quantite": 1, "unite": "", "nom": "poivron vert, en lanières" },
-        { "quantite": 1, "unite": "", "nom": "poivron jaune, en lanières" },
-        { "quantite": null, "unite": "", "nom": "tortillas (au goût)" },
-        { "quantite": null, "unite": "", "nom": "jus de citron (au goût)" },
-        { "quantite": 1, "unite": "", "nom": "gousse d'ail, écrasée" },
-        { "quantite": 5, "unite": "ml", "nom": "coriandre en poudre", "note": "1 c. à thé" },
-        { "quantite": 5, "unite": "ml", "nom": "paprika", "note": "1 c. à thé" },
-        { "quantite": 2.5, "unite": "ml", "nom": "cumin en poudre", "note": "½ c. à thé" },
-        { "quantite": 5, "unite": "ml", "nom": "origan séché", "note": "1 c. à thé" },
-        { "quantite": 100, "unite": "ml", "nom": "bière", "note": "2/5 tasse" },
-        { "quantite": null, "unite": "", "nom": "sel (au goût)" }
+        {
+          "quantite": 450,
+          "unite": "g",
+          "nom": "poulet, coupé en lanières"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "huile de tournesol",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 0.5,
+          "unite": "",
+          "nom": "oignon rouge, émincé"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "poivron vert, en lanières"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "poivron jaune, en lanières"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "tortillas (au goût)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "jus de citron (au goût)"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "gousse d'ail, écrasée"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "coriandre en poudre",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "paprika",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "cumin en poudre",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "origan séché",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 100,
+          "unite": "ml",
+          "nom": "bière",
+          "note": "2/5 tasse"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "sel (au goût)"
+        }
       ],
       "preparation": [
         "Mélanger tous les ingrédients de la marinade (ail, coriandre, paprika, cumin, origan, bière, sel) et y faire mariner le poulet 30 minutes.",
@@ -669,17 +1676,63 @@
       "portions_label": "galettes",
       "note": "Peut utiliser une épaule de porc coupée en cubes et passée au hachoir, ou du porc déjà haché.",
       "ingredients": [
-        { "quantite": 1000, "unite": "g", "nom": "porc haché (épaule de préférence)", "note": "~1 kg" },
-        { "quantite": 25, "unite": "g", "nom": "sauge fraîche, hachée finement" },
-        { "quantite": 12, "unite": "g", "nom": "thym frais, haché finement" },
-        { "quantite": 5, "unite": "g", "nom": "flocons de piment rouge" },
-        { "quantite": 5, "unite": "g", "nom": "paprika" },
-        { "quantite": 1, "unite": "g", "nom": "noix de muscade moulue" },
-        { "quantite": 5, "unite": "", "nom": "gousses d'ail, finement râpées" },
-        { "quantite": 10, "unite": "g", "nom": "cassonade" },
-        { "quantite": 15, "unite": "g", "nom": "gros sel" },
-        { "quantite": 3, "unite": "g", "nom": "poivre noir moulu" },
-        { "quantite": 30, "unite": "ml", "nom": "huile de cuisson", "note": "2 c. à soupe" }
+        {
+          "quantite": 1000,
+          "unite": "g",
+          "nom": "porc haché (épaule de préférence)",
+          "note": "~1 kg"
+        },
+        {
+          "quantite": 25,
+          "unite": "g",
+          "nom": "sauge fraîche, hachée finement"
+        },
+        {
+          "quantite": 12,
+          "unite": "g",
+          "nom": "thym frais, haché finement"
+        },
+        {
+          "quantite": 5,
+          "unite": "g",
+          "nom": "flocons de piment rouge"
+        },
+        {
+          "quantite": 5,
+          "unite": "g",
+          "nom": "paprika"
+        },
+        {
+          "quantite": 1,
+          "unite": "g",
+          "nom": "noix de muscade moulue"
+        },
+        {
+          "quantite": 5,
+          "unite": "",
+          "nom": "gousses d'ail, finement râpées"
+        },
+        {
+          "quantite": 10,
+          "unite": "g",
+          "nom": "cassonade"
+        },
+        {
+          "quantite": 15,
+          "unite": "g",
+          "nom": "gros sel"
+        },
+        {
+          "quantite": 3,
+          "unite": "g",
+          "nom": "poivre noir moulu"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "huile de cuisson",
+          "note": "2 c. à soupe"
+        }
       ],
       "preparation": [
         "Si on utilise une épaule de porc entière : couper en cubes de 2,5 cm et refroidir 15 à 20 minutes au congélateur. Passer au hachoir avec une grille moyenne.",
@@ -698,12 +1751,39 @@
       "portions_label": "portions",
       "temps_cuisson": "15 min",
       "ingredients": [
-        { "quantite": 230, "unite": "g", "nom": "meule de brie entière" },
-        { "quantite": 30, "unite": "ml", "nom": "beurre de noisettes ou d'amandes", "note": "2 c. à soupe" },
-        { "quantite": 30, "unite": "ml", "nom": "miel", "note": "2 c. à soupe" },
-        { "quantite": 15, "unite": "ml", "nom": "noisettes ou amandes rôties, hachées grossièrement", "note": "1 c. à soupe" },
-        { "quantite": null, "unite": "", "nom": "fleur de sel (une pincée)" },
-        { "quantite": null, "unite": "", "nom": "craquelins, biscottes, pommes, raisins et poires (pour servir)" }
+        {
+          "quantite": 230,
+          "unite": "g",
+          "nom": "meule de brie entière"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "beurre de noisettes ou d'amandes",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "miel",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "noisettes ou amandes rôties, hachées grossièrement",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "fleur de sel (une pincée)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "craquelins, biscottes, pommes, raisins et poires (pour servir)"
+        }
       ],
       "preparation": [
         "Préchauffer le four à 175 °C (350 °F).",
@@ -711,6 +1791,2214 @@
         "Transférer dans un plat de service.",
         "Garnir de beurre de noisettes, de miel, de noisettes rôties et d'une pincée de fleur de sel.",
         "Servir immédiatement avec des craquelins, des biscottes, des quartiers de pommes, des raisins et des poires."
+      ]
+    },
+    {
+      "id": "biscuits-canneberges-choco",
+      "nom": "Biscuits canneberges-choco",
+      "categorie": "desserts",
+      "portions": 24,
+      "portions_label": "biscuits",
+      "ingredients": [
+        {
+          "quantite": 170,
+          "unite": "g",
+          "nom": "beurre mou",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 200,
+          "unite": "g",
+          "nom": "cassonade",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 67,
+          "unite": "g",
+          "nom": "sucre blanc",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "oeuf"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "eau",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 94,
+          "unite": "g",
+          "nom": "farine tout usage",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 3.75,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "¾ c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "cannelle",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 255,
+          "unite": "g",
+          "nom": "flocons d'avoine",
+          "note": "3 tasses"
+        },
+        {
+          "quantite": 100,
+          "unite": "g",
+          "nom": "canneberges dégelées",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 28,
+          "unite": "g",
+          "nom": "noix de Grenoble",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 30,
+          "unite": "g",
+          "nom": "graines de tournesol",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 170,
+          "unite": "g",
+          "nom": "chocolat (pistoles ou pépites)",
+          "note": "¾ tasse"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 350°F (180°C). Tapisser une plaque à pâtisserie de papier parchemin.",
+        "Battre le beurre, les sucres, l'oeuf, l'eau et la vanille à vitesse moyenne jusqu'à consistance légère et crémeuse.",
+        "Mélanger la farine, le bicarbonate et la cannelle. Ajouter au mélange crémeux à basse vitesse.",
+        "Incorporer les flocons d'avoine, les canneberges, les noix, les graines et le chocolat.",
+        "Déposer des cuillérées sur la plaque. Aplatir pour des biscuits croustillants ou laisser en monticule pour des biscuits moelleux.",
+        "Cuire de 12 à 15 minutes ou jusqu'à ce que les bords soient dorés. Ne pas trop cuire."
+      ]
+    },
+    {
+      "id": "biscuits-aux-pommes",
+      "nom": "Biscuits aux pommes",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "biscuits",
+      "ingredients": [
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "flocons d'avoine à cuisson rapide",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "farine de blé entier",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "poudre à pâte",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "cannelle",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "une pincée de sel"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "beurre non salé fondu",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "sirop d'érable",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "gros oeuf"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "petite pomme, coupée en petits dés"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 165°C (325°F).",
+        "Dans un grand bol, mélanger l'avoine, la farine, la poudre à pâte, la cannelle et le sel.",
+        "Dans un autre bol, mélanger le beurre fondu, le sirop d'érable, l'oeuf et la vanille. Ajouter la pomme.",
+        "Verser les ingrédients humides sur le mélange sec et mélanger.",
+        "Déposer environ 30 ml de pâte par biscuit sur une plaque et cuire 17 à 20 minutes."
+      ]
+    },
+    {
+      "id": "biscuits-super-chip",
+      "nom": "Super chip cookies",
+      "categorie": "desserts",
+      "portions": 24,
+      "portions_label": "biscuits",
+      "ingredients": [
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "beurre ou margarine",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "miel",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "oeuf"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "farine tout usage",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "germes de blé",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "flocons d'avoine",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 180,
+          "unite": "ml",
+          "nom": "brisures de chocolat noir",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "amandes ou graines de tournesol",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "noix hachées",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "lait (pour lier si nécessaire)"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 350°F (175°C).",
+        "Mélanger le beurre, le miel, l'oeuf et la vanille dans un grand bol.",
+        "Mélanger la farine, les germes de blé, les flocons d'avoine et le bicarbonate dans un bol moyen.",
+        "Ajouter le mélange de farine dans le mélange mouillé. Bien mélanger.",
+        "Incorporer le chocolat, les amandes/graines et les noix. Ajouter un peu de lait si la pâte est trop sèche.",
+        "Déposer des cuillérées sur une plaque et cuire 12 minutes."
+      ]
+    },
+    {
+      "id": "biscuits-gingembre",
+      "nom": "Biscuits au gingembre",
+      "categorie": "desserts",
+      "portions": 24,
+      "portions_label": "biscuits",
+      "ingredients": [
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "beurre doux ou margarine",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "sucre",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "oeuf"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "miel",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 333,
+          "unite": "ml",
+          "nom": "farine tout usage",
+          "note": "1⅓ tasse"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "clous de girofle moulus",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "cannelle moulue",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 7.5,
+          "unite": "ml",
+          "nom": "gingembre moulu",
+          "note": "1½ c. à thé"
+        }
+      ],
+      "preparation": [
+        "Battre en crème le beurre et le sucre, puis incorporer le miel et l'oeuf.",
+        "Tamiser ensemble la farine, le bicarbonate et les épices. Incorporer au premier mélange.",
+        "Pétrir la pâte avec la paume de la main jusqu'à ce qu'elle se tienne.",
+        "Façonner en rouleaux de 5 cm de diamètre, envelopper dans du papier ciré et réfrigérer quelques heures.",
+        "Couper en tranches et cuire à 350°F (175°C), 8 à 10 minutes."
+      ]
+    },
+    {
+      "id": "biscuits-citron-pacanes",
+      "nom": "Biscuits citron et pacanes",
+      "categorie": "desserts",
+      "portions": 30,
+      "portions_label": "biscuits",
+      "ingredients": [
+        {
+          "quantite": 438,
+          "unite": "ml",
+          "nom": "farine tout usage",
+          "note": "1¾ tasse"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "poudre à pâte",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 160,
+          "unite": "ml",
+          "nom": "beurre",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "sucre",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "oeuf"
+        },
+        {
+          "quantite": 7.5,
+          "unite": "ml",
+          "nom": "zeste de citron râpé",
+          "note": "½ c. à soupe"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "jus de citron",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "pacanes hachées finement",
+          "note": "½ tasse"
+        }
+      ],
+      "preparation": [
+        "Dans un bol, mélanger la farine, la poudre à pâte et le sel.",
+        "Dans un autre bol, défaire le beurre en crème. Ajouter le sucre graduellement en battant après chaque addition.",
+        "Ajouter l'oeuf, le zeste et le jus de citron. Bien mélanger.",
+        "Incorporer les ingrédients secs et les pacanes.",
+        "Façonner en rouleaux et réfrigérer, ou former des boules de pâte.",
+        "Cuire à 375°F (190°C), 10 à 12 minutes."
+      ]
+    },
+    {
+      "id": "biscuits-dattes-choco",
+      "nom": "Biscuits dattes-choco",
+      "categorie": "desserts",
+      "portions": 36,
+      "portions_label": "biscuits",
+      "ingredients": [
+        {
+          "quantite": 450,
+          "unite": "g",
+          "nom": "farine tout usage non blanchîe"
+        },
+        {
+          "quantite": 75,
+          "unite": "g",
+          "nom": "cacao en poudre, tamisé"
+        },
+        {
+          "quantite": 15,
+          "unite": "g",
+          "nom": "bicarbonate de soude",
+          "note": "3 c. à thé"
+        },
+        {
+          "quantite": 4,
+          "unite": "g",
+          "nom": "cannelle moulue",
+          "note": "1½ c. à thé"
+        },
+        {
+          "quantite": 2,
+          "unite": "g",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 675,
+          "unite": "g",
+          "nom": "dattes dénoyautées et hachées"
+        },
+        {
+          "quantite": 90,
+          "unite": "ml",
+          "nom": "eau bouillante"
+        },
+        {
+          "quantite": 510,
+          "unite": "g",
+          "nom": "beurre non salé, ramolli"
+        },
+        {
+          "quantite": 3,
+          "unite": "",
+          "nom": "oeufs"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "extrait de vanille"
+        },
+        {
+          "quantite": 420,
+          "unite": "g",
+          "nom": "morceaux de chocolat noir 70 %"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "amandes et graines de citrouille (au goût)"
+        }
+      ],
+      "preparation": [
+        "Dans un bol, mélanger la farine, le cacao, le bicarbonate, la cannelle et le sel.",
+        "Chauffer légèrement les dattes au micro-ondes. Ajouter le beurre ramolli et mélanger jusqu'à consistance onctueuse.",
+        "Ajouter les oeufs et la vanille. Bien mélanger. Incorporer les ingrédients secs. Ajouter le chocolat.",
+        "À l'aide d'une cuillère à crème glacée de 30 ml, former des boules et les répartir sur les plaques en les espaçant.",
+        "Cuire à 350°F (175°C), une plaque à la fois, de 12 à 14 minutes. Laisser tiédir sur une grille."
+      ]
+    },
+    {
+      "id": "galettes-melasse-patates-douces",
+      "nom": "Galettes mélasse et patates douces",
+      "categorie": "desserts",
+      "portions": 20,
+      "portions_label": "galettes",
+      "note": "Recette originale de Ricardo.",
+      "ingredients": [
+        {
+          "quantite": 450,
+          "unite": "g",
+          "nom": "patates douces (environ 2 petites)",
+          "note": "1 lb"
+        },
+        {
+          "quantite": 300,
+          "unite": "g",
+          "nom": "farine tout usage non blanchîe",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "cannelle moulue",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "gingembre moulu",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "une pincée de sel"
+        },
+        {
+          "quantite": 115,
+          "unite": "g",
+          "nom": "beurre non salé ramolli",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 180,
+          "unite": "ml",
+          "nom": "mélasse",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "oeuf"
+        }
+      ],
+      "preparation": [
+        "Placer la grille au centre du four. Préchauffer à 180°C (350°F). Tapisser deux plaques de papier parchemin.",
+        "Piquer les patates douces à la fourchette. Cuire au micro-ondes 6 minutes en les retournant à mi-cuisson. Laisser tiédir, retirer la chair et piler. Garder 250 ml (1 tasse) de purée.",
+        "Dans un bol, mélanger la farine, le bicarbonate, les épices et le sel.",
+        "Dans un autre bol, crémer le beurre et la mélasse. Ajouter la purée de patates et l'oeuf. Mélanger jusqu'à homogénéité.",
+        "Incorporer les ingrédients secs.",
+        "À l'aide d'une cuillère à crème glacée de 45 ml, former des boules et répartir sur les plaques.",
+        "Cuire 15 minutes. Laisser tiédir 10 minutes avant de servir."
+      ]
+    },
+    {
+      "id": "cookies-matcha",
+      "nom": "Cookies au matcha",
+      "categorie": "desserts",
+      "portions": 20,
+      "portions_label": "biscuits",
+      "ingredients": [
+        {
+          "quantite": 170,
+          "unite": "g",
+          "nom": "beurre ramolli"
+        },
+        {
+          "quantite": 80,
+          "unite": "g",
+          "nom": "sucre granulé"
+        },
+        {
+          "quantite": 100,
+          "unite": "g",
+          "nom": "cassonade"
+        },
+        {
+          "quantite": 50,
+          "unite": "g",
+          "nom": "oeuf",
+          "note": "1 gros oeuf"
+        },
+        {
+          "quantite": 15,
+          "unite": "g",
+          "nom": "extrait de vanille"
+        },
+        {
+          "quantite": 260,
+          "unite": "g",
+          "nom": "farine tout usage"
+        },
+        {
+          "quantite": 6,
+          "unite": "g",
+          "nom": "poudre de matcha, tamisée"
+        },
+        {
+          "quantite": 4,
+          "unite": "g",
+          "nom": "sel"
+        },
+        {
+          "quantite": 3,
+          "unite": "g",
+          "nom": "bicarbonate de soude"
+        },
+        {
+          "quantite": 85,
+          "unite": "g",
+          "nom": "pépites ou morceaux de chocolat noir"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "noix au choix (facultatif)"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 175°C (350°F). Tapisser deux plaques de papier parchemin.",
+        "Mélanger la farine, la poudre de matcha, le bicarbonate et le sel. Réserver.",
+        "Battre le beurre avec les sucres jusqu'à texture pâle et crémeuse (1-2 minutes). Ajouter l'oeuf et la vanille.",
+        "Incorporer graduellement les ingrédients secs. Ajouter les pépites de chocolat.",
+        "Former des boules de pâte d'environ 1,5 à 2 c. à soupe et les déposer sur les plaques.",
+        "Cuire une plaque à la fois, 8 à 11 minutes. Laisser refroidir 5 minutes sur la plaque avant de transférer sur une grille."
+      ]
+    },
+    {
+      "id": "mousse-chocolat-mi-amer",
+      "nom": "Mousse au chocolat mi-amer",
+      "categorie": "desserts",
+      "portions": 4,
+      "portions_label": "ramequins",
+      "ingredients": [
+        {
+          "quantite": 4,
+          "unite": "",
+          "nom": "gros jaunes d'oeufs"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "sucre",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "une pincée de sel"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "cacao non sucré",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 57,
+          "unite": "g",
+          "nom": "chocolat mi-amer",
+          "note": "2 oz"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "crème épaisse (35 %)",
+          "note": "½ tasse"
+        }
+      ],
+      "preparation": [
+        "Hacher finement le chocolat et réserver.",
+        "Dans un bain-marie, fouetter les jaunes, le sucre et le sel jusqu'à dissolution du sucre et que le mélange soit chaud au toucher, 2 à 3 minutes.",
+        "Hors du feu, fouetter rapidement le chocolat haché jusqu'à fonte, puis le cacao jusqu'à consistance lisse. Refroidir à température ambiante.",
+        "Fouetter la crème jusqu'à formation de pics mous. Fouetter la moitié dans le mélange de chocolat. Incorporer délicatement le reste.",
+        "Répartir dans 4 ramequins. Réfrigérer au moins 2 heures.",
+        "Sortir du réfrigérateur 15 minutes avant de servir. Garnir de copeaux de chocolat."
+      ]
+    },
+    {
+      "id": "mousse-tofu-chocolat",
+      "nom": "Mousse tofu-chocolat",
+      "categorie": "desserts",
+      "portions": 3,
+      "portions_label": "ramequins",
+      "ingredients": [
+        {
+          "quantite": 100,
+          "unite": "g",
+          "nom": "chocolat noir 70 %, haché grossièrement"
+        },
+        {
+          "quantite": 340,
+          "unite": "g",
+          "nom": "tofu soyeux bio, égoutté, à température ambiante",
+          "note": "1 bloc"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "sirop d'érable",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "copeaux de chocolat, framboises, mûres (garnitures)"
+        }
+      ],
+      "preparation": [
+        "Faire fondre le chocolat au micro-ondes par intervalles de 30 secondes en remuant. Laisser refroidir.",
+        "Dans un robot culinaire, mélanger le tofu soyeux et le sirop d'érable jusqu'à texture très lisse.",
+        "Ajouter le chocolat fondu et mixer jusqu'à homogénéité.",
+        "Répartir dans 3 ramequins ou petits verres. Réfrigérer au moins 30 minutes.",
+        "Décorer avec des copeaux de chocolat et des fruits frais."
+      ]
+    },
+    {
+      "id": "gateau-chocolat-nico",
+      "nom": "Gâteau au chocolat (Nico)",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "portions",
+      "temps_cuisson": "45-50 min",
+      "note": "Très bon avec un glaçage : pistoles 58 % + yaourt nature.",
+      "ingredients": [
+        {
+          "quantite": 300,
+          "unite": "g",
+          "nom": "farine tout usage",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "poudre à pâte",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "oeufs"
+        },
+        {
+          "quantite": 150,
+          "unite": "g",
+          "nom": "sucre",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 240,
+          "unite": "g",
+          "nom": "lait de beurre (babeurre)",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "g",
+          "nom": "huile de canola",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 75,
+          "unite": "g",
+          "nom": "cacao",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 180,
+          "unite": "g",
+          "nom": "café corsé, tiède",
+          "note": "¾ tasse"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 180°C (350°F). Beurrer et tapisser deux moules à charnière de 20 cm de papier parchemin.",
+        "Dans un bol, mélanger la farine, le bicarbonate, la poudre à pâte et le sel.",
+        "Dans un autre bol, mélanger les oeufs, le sucre, le lait de beurre, l'huile et la vanille au fouet.",
+        "Dans un petit bol, mélanger le cacao et le café. Ajouter au mélange d'oeufs. Incorporer les ingrédients secs.",
+        "Répartir la pâte dans les moules. Cuire 45 à 50 minutes ou jusqu'à ce qu'un cure-dent ressorte propre.",
+        "Laisser refroidir complètement sur une grille. Démouler."
+      ]
+    },
+    {
+      "id": "chantilly-chocolat",
+      "nom": "Chantilly au chocolat",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "portions (glaçage pour 1 gâteau)",
+      "ingredients": [
+        {
+          "quantite": 170,
+          "unite": "g",
+          "nom": "chocolat au lait, haché",
+          "note": "6 oz"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "crème 35 %",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "grué de cacao pour garnir (facultatif)"
+        }
+      ],
+      "preparation": [
+        "Déposer le chocolat haché dans un bol résistant à la chaleur.",
+        "Dans une casserole, porter la crème à ébullition. Verser sur le chocolat et laisser reposer 1 minute.",
+        "Fouetter jusqu'à homogénéité. Couvrir d'une pellicule de plastique directement sur la surface.",
+        "Réfrigérer environ 8 heures (ou 4 heures sur glace pour accélérer).",
+        "Fouetter au batteur jusqu'à pics fermes mais souples. Ne pas trop fouetter.",
+        "Étaler sur le gâteau. Garnir de grué de cacao si désiré."
+      ]
+    },
+    {
+      "id": "creme-beurre-erable",
+      "nom": "Crème au beurre à l'érable",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "portions (glaçage pour 1 gâteau)",
+      "ingredients": [
+        {
+          "quantite": 375,
+          "unite": "ml",
+          "nom": "sirop d'érable",
+          "note": "1½ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "crème 35 %",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "sirop de maïs",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 3,
+          "unite": "",
+          "nom": "jaunes d'oeufs"
+        },
+        {
+          "quantite": 310,
+          "unite": "ml",
+          "nom": "beurre non salé ramolli (encore légèrement froid)",
+          "note": "1¼ tasse"
+        }
+      ],
+      "preparation": [
+        "Dans une casserole, porter le sirop d'érable, la crème et le sirop de maïs à ébullition. Mijoter jusqu'à 117°C (242°F) au thermomètre à bonbons, environ 5 à 10 minutes.",
+        "En fouettant au batteur à vitesse moyenne, verser le sirop chaud en filet sur les jaunes d'oeufs. Fouetter jusqu'à refroidissement complet, environ 15 minutes.",
+        "Ajouter le beurre 1 ou 2 cubes à la fois, en battant jusqu'à texture très onctueuse. Racler le fond du bol régulièrement."
+      ]
+    },
+    {
+      "id": "gateau-tendre-vanille",
+      "nom": "Gâteau tendre à la vanille",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "portions",
+      "temps_cuisson": "30 min",
+      "ingredients": [
+        {
+          "quantite": 300,
+          "unite": "g",
+          "nom": "farine tout usage"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "levure chimique (poudre à pâte)",
+          "note": "2½ c. à thé"
+        },
+        {
+          "quantite": 1.25,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "¼ c. à thé"
+        },
+        {
+          "quantite": 4,
+          "unite": "",
+          "nom": "gros oeufs, à température ambiante"
+        },
+        {
+          "quantite": 150,
+          "unite": "g",
+          "nom": "sucre"
+        },
+        {
+          "quantite": 115,
+          "unite": "g",
+          "nom": "beurre non salé, en cubes",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "lait entier"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "3 c. à thé"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 180°C (350°F) pendant 20 minutes. Graisser 2 moules à gâteau de 20 cm et tapisser de papier parchemin.",
+        "Fouetter la farine, la poudre à pâte et le sel dans un grand bol. Réserver.",
+        "Battre les oeufs 30 secondes. Verser graduellement le sucre en 25 secondes. Battre 7 minutes jusqu'à ce que le mélange ait triplé de volume et blanchie.",
+        "Pendant ce temps, chauffer le beurre et le lait ensemble sans bouillir. Ajouter la vanille.",
+        "Incorporer la farine à la pâte aux oeufs en trois fois, en mélangeant 5 secondes à basse vitesse après chaque addition.",
+        "Transférer 1,5 tasse de pâte aux oeufs dans le lait-beurre et fouetter jusqu'à consistance lisse. Verser lentement ce mélange dans la pâte aux oeufs en battant 15 secondes. Racler et mélanger 10 secondes.",
+        "Verser dans les moules. Frapper chaque moule sur le comptoir 3 fois. Cuire 30 minutes. Laisser refroidir 15 minutes avant de démouler."
+      ]
+    },
+    {
+      "id": "tarte-sirop-erable",
+      "nom": "Tarte au sirop d'érable",
+      "categorie": "desserts",
+      "portions": 8,
+      "portions_label": "portions",
+      "temps_cuisson": "45 min",
+      "ingredients": [
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "abaisse de pâte à tarte (recette de base)"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "fécule de maïs",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "farine tout usage",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 375,
+          "unite": "ml",
+          "nom": "sirop d'érable ambré",
+          "note": "1½ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "crème 35 %",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "oeuf"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "canneberges fraîches",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "cubes de pommes",
+          "note": "1 tasse"
+        }
+      ],
+      "preparation": [
+        "Placer la grille dans le bas du four. Préchauffer à 200°C (400°F).",
+        "Dans un bol, mélanger la fécule et la farine. Ajouter le sirop d'érable et fouetter jusqu'à homogénéité. Ajouter la crème et l'oeuf. Fouetter. Ajouter les canneberges et les pommes. Verser dans la croûte.",
+        "Cuire 45 minutes jusqu'à ce que la garniture soit figée.",
+        "Laisser refroidir à température ambiante 2 heures avant de servir."
+      ]
+    },
+    {
+      "id": "tarte-chocolat-poire",
+      "nom": "Tarte chocolat et poire",
+      "categorie": "desserts",
+      "portions": 8,
+      "portions_label": "portions",
+      "ingredients": [
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "noix de Grenoble",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "cassonade",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "poudre d'amandes",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "beurre fondu",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 10,
+          "unite": "",
+          "nom": "dattes Medjool, dénoyautées"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "avocat bien mûr"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "poires, sans la pelure"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "jus de ½ citron"
+        },
+        {
+          "quantite": 180,
+          "unite": "ml",
+          "nom": "pépites de chocolat noir",
+          "note": "¾ tasse"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 325°F (160°C). Beurrer un moule à tarte de 23 cm.",
+        "Croûte : au robot, broyer les noix avec la cassonade. Ajouter la poudre d'amandes et le beurre fondu. Presser au fond du moule. Cuire 20 à 30 minutes jusqu'à coloration dorée.",
+        "À l'aide du pied-mélangeur, réduire les dattes et l'avocat en purée lisse. Réserver.",
+        "Cuire les poires avec le jus de citron au micro-ondes 4 minutes. Ajouter les pépites de chocolat et laisser fondre. Mélanger avec la purée de dattes-avocat.",
+        "Verser sur la croûte. Réfrigérer au moins 1 heure avant de servir."
+      ]
+    },
+    {
+      "id": "cake-citron-framboises",
+      "nom": "Cake citron-framboises",
+      "categorie": "desserts",
+      "portions": 10,
+      "portions_label": "tranches",
+      "temps_cuisson": "45 min",
+      "ingredients": [
+        {
+          "quantite": 375,
+          "unite": "ml",
+          "nom": "farine tout usage",
+          "note": "1½ tasse"
+        },
+        {
+          "quantite": 7.5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "1½ c. à thé"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "une pincée de sel"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "zeste de citron",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "jus de citron",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 180,
+          "unite": "ml",
+          "nom": "sucre",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "oeufs"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "huile de canola",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 180,
+          "unite": "ml",
+          "nom": "yogourt grec à la vanille",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "framboises fraîches",
+          "note": "1 tasse (1 casseau)"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 350°F (175°C). Tapisser un moule à pain de papier parchemin.",
+        "Mélanger la farine, le bicarbonate et le sel. Réserver.",
+        "Dans un autre bol, mélanger le zeste et le jus de citron avec le sucre. Incorporer les oeufs un à un. Ajouter l'huile et le yogourt.",
+        "Verser la farine et bien mélanger. Ajouter les framboises délicatement sans trop mélanger.",
+        "Verser dans le moule. Cuire 45 minutes."
+      ]
+    },
+    {
+      "id": "gateau-moka-canneberges",
+      "nom": "Gâteau moka et canneberges",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "portions",
+      "temps_cuisson": "50 min",
+      "ingredients": [
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "farine tout usage",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "poudre à pâte",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "cacao en poudre",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "café instantané en poudre",
+          "note": "3 c. à soupe"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "sucre",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 3,
+          "unite": "",
+          "nom": "oeufs"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "graisse végétale",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "lait sur (lait + 1 c. à thé de vinaigre)",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 500,
+          "unite": "ml",
+          "nom": "canneberges congelées, sorties 1 h à l'avance",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 375,
+          "unite": "ml",
+          "nom": "pacanes ou noix",
+          "note": "1½ tasse"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 350°F (175°C).",
+        "Dans un bol, mélanger la farine, le bicarbonate, la poudre à pâte, le sel, le cacao et le café instantané. Réserver.",
+        "Dans un grand bol, mélanger le sucre, les oeufs et la graisse.",
+        "Ajouter les ingrédients secs, le lait et la vanille. Mélanger au plus 2 minutes.",
+        "À la main, incorporer les canneberges et les noix sans trop mélanger.",
+        "Verser dans 1 moule tubulaire et cuire 50 minutes, ou dans 2 moules à pain graissés et cuire 35 minutes.",
+        "Laisser refroidir dans le moule 15 minutes avant de démouler sur grille."
+      ]
+    },
+    {
+      "id": "creme-glacee-maison",
+      "nom": "Crème glacée maison",
+      "categorie": "desserts",
+      "portions": 6,
+      "portions_label": "portions",
+      "note": "Nécessite un accessoire sorbétière KitchenAid. Mettre l'accessoire au congélateur 24 h à l'avance. Saveurs : Chocolat lavande (50 g cacao + 5 g fleurs de lavande broyées) ou Matcha (30 g de matcha en poudre).",
+      "ingredients": [
+        {
+          "quantite": 240,
+          "unite": "g",
+          "nom": "crème à fouetter",
+          "note": "240 ml"
+        },
+        {
+          "quantite": 140,
+          "unite": "g",
+          "nom": "sucre"
+        },
+        {
+          "quantite": 3,
+          "unite": "g",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 480,
+          "unite": "ml",
+          "nom": "lait 2 %",
+          "note": "500 g"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "ingrédients de saveur au choix (voir note)"
+        }
+      ],
+      "preparation": [
+        "Mettre l'accessoire sorbétière au congélateur 24 h à l'avance. Régler le congélateur au réglage le plus froid.",
+        "Mélanger la crème et tamiser les ingrédients secs de la saveur choisie. Fouetter pour éviter les grumeaux.",
+        "Ajouter le lait, le sucre et le sel. Bien mélanger. Réfrigérer au moins 3 heures.",
+        "Verser l'appareil dans l'accessoire bien froid et actionner la sorbétière 15 à 20 minutes.",
+        "Transférer dans un plat allant au congélateur. Déguster rapidement pour la meilleure qualité."
+      ]
+    },
+    {
+      "id": "gaufres-croustillantes",
+      "nom": "Gaufres croustillantes",
+      "categorie": "desserts",
+      "portions": 8,
+      "portions_label": "gaufres",
+      "ingredients": [
+        {
+          "quantite": 260,
+          "unite": "g",
+          "nom": "farine tout usage",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 60,
+          "unite": "g",
+          "nom": "fécule de maïs",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "levure chimique (poudre à pâte)",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "sucre",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 470,
+          "unite": "g",
+          "nom": "babeurre ou lait",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 160,
+          "unite": "g",
+          "nom": "huile végétale",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "oeufs"
+        }
+      ],
+      "preparation": [
+        "Fouetter ensemble la farine, la fécule de maïs, le sel, la poudre à pâte, le bicarbonate et le sucre dans un grand bol.",
+        "Dans un autre bol, fouetter le babeurre, l'huile, les oeufs et l'extrait de vanille.",
+        "Incorporer le mélange liquide aux ingrédients secs jusqu'à ce qu'il ne reste que de petits grumeaux.",
+        "Cuire dans le gaufrier préalablement huilé et chaud. Servir immédiatement pour garder le croquant."
+      ]
+    },
+    {
+      "id": "beignes-yaourt",
+      "nom": "Beignes au yaourt",
+      "categorie": "desserts",
+      "portions": 8,
+      "portions_label": "beignes",
+      "ingredients": [
+        {
+          "quantite": 280,
+          "unite": "g",
+          "nom": "farine tout usage",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 12.5,
+          "unite": "g",
+          "nom": "poudre à pâte",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 6,
+          "unite": "g",
+          "nom": "sel",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "grands jaunes d'oeufs"
+        },
+        {
+          "quantite": 245,
+          "unite": "g",
+          "nom": "yaourt nature (type Riviera)"
+        },
+        {
+          "quantite": 100,
+          "unite": "g",
+          "nom": "sucre blanc"
+        },
+        {
+          "quantite": 28,
+          "unite": "g",
+          "nom": "beurre fondu, légèrement refroidi",
+          "note": "2 c. à soupe"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "huile végétale pour la friture (1,5 po de profondeur)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "sirop d'érable chaud ou sucre cannelle pour glacer"
+        }
+      ],
+      "preparation": [
+        "Fouetter la poudre à pâte, la farine et le sel dans un bol moyen.",
+        "Dans un grand bol, fouetter les jaunes d'oeufs, le yaourt, le sucre, le beurre et la vanille jusqu'à consistance lisse. Incorporer les ingrédients secs.",
+        "Étaler la pâte sur une surface bien farinée à une épaisseur de 1,5 cm. Couper en cercles de 9 cm avec un trou de 2,5 cm au centre.",
+        "Chauffer l'huile à 175°C (350°F) dans une grande casserole. Frire les beignes environ 2 minutes de chaque côté.",
+        "Transférer sur une grille. Laisser refroidir 10 minutes avant de glacer."
+      ]
+    },
+    {
+      "id": "pain-banane-chocolat",
+      "nom": "Pain banane-chocolat",
+      "categorie": "desserts",
+      "portions": 10,
+      "portions_label": "tranches",
+      "temps_cuisson": "60 min",
+      "ingredients": [
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "oeufs, légèrement battus"
+        },
+        {
+          "quantite": 250,
+          "unite": "g",
+          "nom": "bananes mûres écrasées",
+          "note": "environ 3 moyennes"
+        },
+        {
+          "quantite": 75,
+          "unite": "g",
+          "nom": "huile végétale",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 50,
+          "unite": "g",
+          "nom": "lait",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "g",
+          "nom": "farine tout usage",
+          "note": "2 tasses"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "poudre à pâte",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 100,
+          "unite": "g",
+          "nom": "chocolat, en morceaux"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "noix hachées",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "cassonade tassée",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "cannelle",
+          "note": "1 c. à thé"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 350°F (180°C).",
+        "Mélanger les oeufs, les bananes, l'huile et le lait.",
+        "Ajouter la farine, la poudre à pâte et le sel ; remuer juste assez pour humecter.",
+        "Incorporer le chocolat et les noix.",
+        "Verser dans un moule à pain de 23 cm × 13 cm graissé.",
+        "Mélanger la cassonade et la cannelle ; saupoudrer sur la pâte.",
+        "Cuire 60 minutes ou jusqu'à ce qu'un cure-dent ressorte propre. Laisser refroidir 10 minutes. Démouler et refroidir complètement."
+      ]
+    },
+    {
+      "id": "gateau-carottes",
+      "nom": "Gâteau aux carottes",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "portions",
+      "temps_cuisson": "40 min",
+      "ingredients": [
+        {
+          "quantite": 280,
+          "unite": "g",
+          "nom": "farine tout usage non blanchîe",
+          "note": "2¼ tasses"
+        },
+        {
+          "quantite": 7.5,
+          "unite": "ml",
+          "nom": "poudre à pâte",
+          "note": "1½ c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "cannelle moulue",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "muscade moulue",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 1.25,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "¼ c. à thé"
+        },
+        {
+          "quantite": 4,
+          "unite": "",
+          "nom": "oeufs, séparés"
+        },
+        {
+          "quantite": 350,
+          "unite": "g",
+          "nom": "cassonade",
+          "note": "1¾ tasse"
+        },
+        {
+          "quantite": 180,
+          "unite": "ml",
+          "nom": "huile de canola",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "jus d'orange",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 400,
+          "unite": "g",
+          "nom": "carottes pelées et râpées",
+          "note": "4 tasses"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "noix de Grenoble hachées",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 65,
+          "unite": "g",
+          "nom": "raisins de Corinthe secs",
+          "note": "½ tasse"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 190°C (375°F). Beurrer et fariner deux moules à gâteau de 23 cm.",
+        "Dans un bol, mélanger la farine, la poudre à pâte, le bicarbonate, la cannelle, la muscade et le sel.",
+        "Dans un grand bol, fouetter les jaunes d'oeufs avec la cassonade et l'huile jusqu'à homogénéité. Ajouter le jus d'orange.",
+        "Incorporer les ingrédients secs. Ajouter les carottes râpées, les noix et les raisins.",
+        "Battre les blancs d'oeufs en neige ferme. Incorporer délicatement à la pâte.",
+        "Cuire 35 à 45 minutes ou jusqu'à ce qu'un cure-dent ressorte propre. Refroidir complètement avant de glacer."
+      ]
+    },
+    {
+      "id": "gateau-chocolat-creme-sure",
+      "nom": "Gâteau au chocolat (crème sure)",
+      "categorie": "desserts",
+      "portions": 16,
+      "portions_label": "portions",
+      "temps_cuisson": "40-45 min",
+      "note": "Trouvé dans l'Hebdo — L'art de recevoir, décembre 2005.",
+      "ingredients": [
+        {
+          "quantite": 625,
+          "unite": "ml",
+          "nom": "farine tout usage",
+          "note": "2½ tasses"
+        },
+        {
+          "quantite": 300,
+          "unite": "ml",
+          "nom": "cassonade tassée",
+          "note": "1½ tasse"
+        },
+        {
+          "quantite": 75,
+          "unite": "g",
+          "nom": "poudre de cacao",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "poudre à pâte",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "lait",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "huile végétale",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "vinaigre",
+          "note": "4 c. à soupe"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "oeufs"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 200,
+          "unite": "g",
+          "nom": "brisures de chocolat mi-sucré (glaçage)"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "crème sure (glaçage)",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 30,
+          "unite": "ml",
+          "nom": "sucre glace (glaçage)",
+          "note": "2 c. à soupe"
+        }
+      ],
+      "preparation": [
+        "Tamiser la farine, la cassonade, le cacao, le bicarbonate, la poudre à pâte et le sel dans un grand bol. Faire un puits et ajouter le lait, l'huile, le vinaigre, les oeufs et la vanille.",
+        "Battre au batteur électrique 2 minutes jusqu'à homogénéité.",
+        "Verser dans un moule de 33 × 23 cm légèrement huilé. Cuire au four à 350°F (180°C) de 40 à 45 minutes. Laisser refroidir complètement.",
+        "Glaçage : faire fondre les brisures de chocolat au bain-marie. Ajouter la crème sure et le sucre glace. Mélanger et étaler sur le gâteau refroidi."
+      ]
+    },
+    {
+      "id": "barres-granola",
+      "nom": "Barres granola",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "barres",
+      "note": "Important : utiliser des mini pépites de chocolat — les gros morceaux empêchent la barre de se tenir.",
+      "ingredients": [
+        {
+          "quantite": 248,
+          "unite": "g",
+          "nom": "beurre d'arachide naturel crémeux (ou beurre de cajou)",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 170,
+          "unite": "g",
+          "nom": "miel",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 3,
+          "unite": "g",
+          "nom": "sel de mer",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 225,
+          "unite": "g",
+          "nom": "flocons d'avoine entiers",
+          "note": "1¾ tasse"
+        },
+        {
+          "quantite": 58,
+          "unite": "g",
+          "nom": "mini pépites de chocolat",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 45,
+          "unite": "ml",
+          "nom": "graines de citrouille ou arachides concassées",
+          "note": "3 c. à soupe"
+        }
+      ],
+      "preparation": [
+        "Dans une casserole, chauffer le beurre d'arachide et le miel à feu doux jusqu'à ce qu'ils soient bien mélangés.",
+        "Retirer du feu. Ajouter la vanille et le sel.",
+        "Incorporer les flocons d'avoine et les graines. Laisser refroidir légèrement.",
+        "Ajouter les mini pépites de chocolat et mélanger rapidement.",
+        "Presser le mélange dans un plat tapé de papier parchemin. Réfrigérer au moins 2 heures. Couper en barres."
+      ]
+    },
+    {
+      "id": "muffins-bleuets",
+      "nom": "Muffins aux bleuets",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "muffins",
+      "temps_cuisson": "15-22 min",
+      "note": "Les muffins légendaires.",
+      "ingredients": [
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "flocons d'avoine",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "babeurre ou lait suri",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "farine tout usage",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "levure chimique (poudre à pâte)",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2,
+          "unite": "ml",
+          "nom": "bicarbonate de sodium",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 2,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 175,
+          "unite": "ml",
+          "nom": "cassonade, légèrement pressée",
+          "note": "¾ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "oeuf, battu"
+        },
+        {
+          "quantite": 50,
+          "unite": "ml",
+          "nom": "beurre fondu",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "bleuets congelés",
+          "note": "1 tasse"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 400°F (200°C).",
+        "Dans un bol, mélanger les flocons d'avoine et le babeurre. Laisser reposer quelques minutes.",
+        "Dans un autre bol, mélanger la farine, la levure, le bicarbonate, le sel et la cassonade.",
+        "Incorporer l'oeuf battu et le beurre fondu au mélange de flocons d'avoine.",
+        "Ajouter en une seule fois au mélange de farine et remuer juste assez pour humidifier.",
+        "Ajouter délicatement les bleuets.",
+        "Remplir au ¾ les moules à muffins bien graissés. Cuire de 15 à 22 minutes."
+      ]
+    },
+    {
+      "id": "pouding-tapioca",
+      "nom": "Pouding au tapioca",
+      "categorie": "desserts",
+      "portions": 6,
+      "portions_label": "ramequins",
+      "note": "Saveurs facultatives : quelques morceaux de chocolat fondés, ou 1 c. à soupe de matcha.",
+      "ingredients": [
+        {
+          "quantite": 1000,
+          "unite": "ml",
+          "nom": "lait",
+          "note": "4 tasses"
+        },
+        {
+          "quantite": 80,
+          "unite": "ml",
+          "nom": "sucre",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 80,
+          "unite": "ml",
+          "nom": "tapioca moyen",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "jaune d'oeuf"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "extrait de vanille (au goût)"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "saveur au choix (chocolat ou matcha, facultatif)"
+        }
+      ],
+      "preparation": [
+        "Incorporer tous les ingrédients dans une casserole et porter à ébullition à feu doux.",
+        "Brasser fréquemment.",
+        "Retirer du feu. Ajouter la saveur si désiré.",
+        "Transvider dans des petits ramequins.",
+        "Réfrigérer au moins 12 heures avant de servir."
+      ]
+    },
+    {
+      "id": "croustade-pommes-canneberges",
+      "nom": "Croustade pommes-canneberges",
+      "categorie": "desserts",
+      "portions": 6,
+      "portions_label": "portions",
+      "temps_cuisson": "30-35 min",
+      "ingredients": [
+        {
+          "quantite": 80,
+          "unite": "ml",
+          "nom": "sucre granulé",
+          "note": "⅓ tasse"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "cannelle",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 1.25,
+          "unite": "ml",
+          "nom": "muscade",
+          "note": "¼ c. à thé"
+        },
+        {
+          "quantite": 3,
+          "unite": "",
+          "nom": "grosses pommes, pelées et tranchées"
+        },
+        {
+          "quantite": 250,
+          "unite": "ml",
+          "nom": "canneberges fraîches ou congelées",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "flocons d'avoine à cuisson rapide (garniture)",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "farine tout usage (garniture)",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 125,
+          "unite": "ml",
+          "nom": "sucre brun (garniture)",
+          "note": "½ tasse"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "cannelle (garniture)",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 60,
+          "unite": "ml",
+          "nom": "beurre (garniture)",
+          "note": "¼ tasse"
+        },
+        {
+          "quantite": 15,
+          "unite": "ml",
+          "nom": "eau (garniture)",
+          "note": "1 c. à soupe"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 375°F (190°C).",
+        "Mélanger le sucre, la cannelle et la muscade. Enrober les pommes et les canneberges de ce mélange. Verser dans un plat carré de 20 cm légèrement beurré.",
+        "Dans un bol, mélanger la farine, les flocons d'avoine, le sucre brun et la cannelle pour la garniture. Incorporer le beurre jusqu'à consistance granuleuse. Arroser d'eau pour humecter. Étendre sur les fruits.",
+        "Cuire 30 à 35 minutes jusqu'à ce que les pommes soient tendres. Servir chaud, avec du yogourt glacé si désiré."
+      ]
+    },
+    {
+      "id": "muffins-carottes",
+      "nom": "Muffins aux carottes",
+      "categorie": "desserts",
+      "portions": 12,
+      "portions_label": "muffins",
+      "ingredients": [
+        {
+          "quantite": 300,
+          "unite": "g",
+          "nom": "carottes, râpées"
+        },
+        {
+          "quantite": 125,
+          "unite": "g",
+          "nom": "huile végétale"
+        },
+        {
+          "quantite": 115,
+          "unite": "g",
+          "nom": "sucre blanc"
+        },
+        {
+          "quantite": 80,
+          "unite": "g",
+          "nom": "cassonade"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "oeufs"
+        },
+        {
+          "quantite": 300,
+          "unite": "g",
+          "nom": "farine tout usage"
+        },
+        {
+          "quantite": 10,
+          "unite": "ml",
+          "nom": "poudre à pâte",
+          "note": "2 c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "cannelle moulue",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 1.25,
+          "unite": "ml",
+          "nom": "sel",
+          "note": "¼ c. à thé"
+        }
+      ],
+      "preparation": [
+        "Préchauffer le four à 425°F (210°C). Laver, peler et râper les carottes.",
+        "Mélanger l'huile, le sucre et la cassonade. Ajouter les oeufs et fouetter.",
+        "Dans un autre bol, mélanger la farine, la poudre à pâte, le bicarbonate, le sel et la cannelle.",
+        "Ajouter les carottes au mélange liquide. Incorporer les ingrédients secs à la spatule.",
+        "Verser dans les moules à muffins. Cuire 5 minutes à 425°F, puis baisser à 350°F (176°C) et continuer 15 minutes."
+      ]
+    },
+    {
+      "id": "pecan-pie",
+      "nom": "Pecan pie",
+      "categorie": "desserts",
+      "portions": 8,
+      "portions_label": "portions",
+      "temps_cuisson": "30-35 min",
+      "ingredients": [
+        {
+          "quantite": 1,
+          "unite": "",
+          "nom": "abaisse de pâte à tarte (recette de base)"
+        },
+        {
+          "quantite": 235,
+          "unite": "ml",
+          "nom": "lait entier",
+          "note": "1 tasse"
+        },
+        {
+          "quantite": 220,
+          "unite": "g",
+          "nom": "sucre brun"
+        },
+        {
+          "quantite": 3,
+          "unite": "",
+          "nom": "oeufs, battus"
+        },
+        {
+          "quantite": 15,
+          "unite": "g",
+          "nom": "farine"
+        },
+        {
+          "quantite": 65,
+          "unite": "g",
+          "nom": "pacanes finement hachées"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "une pincée de sel"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "moitiés de pacanes pour décorer (facultatif)"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "blancs d'oeufs (meringue)"
+        },
+        {
+          "quantite": 40,
+          "unite": "g",
+          "nom": "sucre en poudre (meringue)"
+        }
+      ],
+      "preparation": [
+        "Étaler la pâte dans un moule à tarte. Cuisson à blanc : couvrir de papier alu et poids, cuire à 220°C (425°F) 12 minutes. Retirer les poids, cuire 5-7 minutes de plus. Refroidir complètement.",
+        "Réduire le four à 175°C (350°F).",
+        "Dans une casserole, mélanger le lait, le sucre brun, les oeufs, la farine, les pacanes et le sel. Chauffer à feu doux en remuant constamment jusqu'à épaississement (7-8 minutes).",
+        "Verser dans la croûte refroidie. Décorer de moitiés de pacanes. Cuire 30 à 35 minutes.",
+        "Refroidir complètement sur une grille.",
+        "Meringue (facultatif) : battre les blancs en pics mous, ajouter le sucre progressivement jusqu'à pics fermes et brillants. Étaler sur la tarte. Cuire 12 minutes jusqu'à dorure."
+      ]
+    },
+    {
+      "id": "galettes-pommes",
+      "nom": "Galettes aux pommes",
+      "categorie": "desserts",
+      "portions": 24,
+      "portions_label": "galettes",
+      "temps_cuisson": "11 min",
+      "ingredients": [
+        {
+          "quantite": 250,
+          "unite": "g",
+          "nom": "pommes, en petits cubes"
+        },
+        {
+          "quantite": 15,
+          "unite": "g",
+          "nom": "jus de citron",
+          "note": "1 c. à soupe"
+        },
+        {
+          "quantite": 250,
+          "unite": "g",
+          "nom": "farine tout usage"
+        },
+        {
+          "quantite": 270,
+          "unite": "g",
+          "nom": "flocons d'avoine à l'ancienne"
+        },
+        {
+          "quantite": 230,
+          "unite": "g",
+          "nom": "beurre non salé fondu"
+        },
+        {
+          "quantite": 140,
+          "unite": "g",
+          "nom": "cassonade tassée"
+        },
+        {
+          "quantite": 130,
+          "unite": "g",
+          "nom": "sucre blanc"
+        },
+        {
+          "quantite": 70,
+          "unite": "g",
+          "nom": "pacanes hachées"
+        },
+        {
+          "quantite": 2,
+          "unite": "",
+          "nom": "gros oeufs, battus"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "extrait de vanille",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 5,
+          "unite": "ml",
+          "nom": "cannelle",
+          "note": "1 c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "bicarbonate de soude",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 2.5,
+          "unite": "ml",
+          "nom": "poudre à pâte",
+          "note": "½ c. à thé"
+        },
+        {
+          "quantite": 1.25,
+          "unite": "ml",
+          "nom": "gingembre moulu",
+          "note": "¼ c. à thé"
+        },
+        {
+          "quantite": null,
+          "unite": "",
+          "nom": "une pincée de sel et de clou de girofle"
+        }
+      ],
+      "preparation": [
+        "Mélanger les cubes de pommes avec le jus de citron. Réserver.",
+        "Tamiser la farine, la cannelle, le bicarbonate, la poudre à pâte, le sel, le gingembre et le clou de girofle. Ajouter les flocons d'avoine.",
+        "Battre le beurre fondu avec le sucre et la cassonade jusqu'à consistance crémeuse. Incorporer les oeufs et la vanille.",
+        "Mélanger le sec avec les ingrédients humides. Incorporer les pommes et les pacanes.",
+        "Préchauffer le four à 350°F (180°C). Tapisser des plaques de papier parchemin.",
+        "Former des boules de 3 cm et répartir sur les plaques. Cuire 11 minutes jusqu'à ce que les bords commencent à dorer. Laisser tempérer sur une grille."
       ]
     }
   ]
