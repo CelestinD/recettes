@@ -47,7 +47,7 @@
         },
         {
           "quantite": 300,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau (1re mesure)"
         },
         {
@@ -57,7 +57,7 @@
         },
         {
           "quantite": 300,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau (2e mesure)"
         }
       ],
@@ -78,13 +78,13 @@
       "ingredients": [
         {
           "quantite": 500,
-          "unite": "ml",
+          "unite": "g",
           "nom": "lait",
           "note": "2 tasses"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 8,
+          "unite": "g",
           "nom": "thé chai"
         },
         {
@@ -113,14 +113,14 @@
           "nom": "cannelle (au goût)"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 2.0,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 20,
+          "unite": "g",
           "nom": "sirop d'érable",
           "note": "1 c. à soupe"
         }
@@ -142,7 +142,7 @@
       "ingredients": [
         {
           "quantite": 350,
-          "unite": "ml",
+          "unite": "g",
           "nom": "culture liquide de kombucha (mère)"
         },
         {
@@ -158,17 +158,17 @@
         },
         {
           "quantite": 500,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau bouillante"
         },
         {
           "quantite": 2500,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau froide"
         },
         {
           "quantite": 125,
-          "unite": "ml",
+          "unite": "g",
           "nom": "jus ou purée de fruits (ananas, pomme, orange…)"
         }
       ],
@@ -190,14 +190,14 @@
       "note": "Recette d'Annabelle",
       "ingredients": [
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 112,
+          "unite": "g",
           "nom": "grains de kéfir",
           "note": "½ tasse"
         },
         {
-          "quantite": 80,
-          "unite": "ml",
+          "quantite": 64,
+          "unite": "g",
           "nom": "cassonade (ou sucre blanc + 1 c. à soupe mélasse)",
           "note": "⅓ tasse"
         },
@@ -208,13 +208,13 @@
         },
         {
           "quantite": 1750,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau",
           "note": "7 tasses"
         },
         {
           "quantite": 400,
-          "unite": "ml",
+          "unite": "g",
           "nom": "jus de fruits (pour 2e fermentation)",
           "note": "environ 20% du volume"
         }
@@ -246,8 +246,8 @@
           "nom": "glaçons"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 3.5,
+          "unite": "g",
           "nom": "mix cacao-lavande",
           "note": "2 c. à thé"
         },
@@ -320,18 +320,18 @@
           "nom": "citrons (jus)"
         },
         {
-          "quantite": 550,
-          "unite": "ml",
+          "quantite": 365,
+          "unite": "g",
           "nom": "pois chiches (cuits ou en conserve)"
         },
         {
           "quantite": 150,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 120,
+          "unite": "g",
           "nom": "beurre de sésame (tahini)"
         },
         {
@@ -367,7 +367,7 @@
       "ingredients": [
         {
           "quantite": 125,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau",
           "note": "½ tasse"
         },
@@ -378,8 +378,8 @@
           "note": "~4 pommes"
         },
         {
-          "quantite": 1.67,
-          "unite": "ml",
+          "quantite": 1.0,
+          "unite": "g",
           "nom": "cannelle (facultatif)",
           "note": "⅓ c. à thé"
         }
@@ -406,32 +406,32 @@
           "note": "2,5 kg / 5½ lbs"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 200,
+          "unite": "g",
           "nom": "cassonade",
           "note": "1 tasse"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 200,
+          "unite": "g",
           "nom": "sucre",
           "note": "1 tasse"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 8,
+          "unite": "g",
           "nom": "cannelle",
           "note": "1 c. à soupe"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 9,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "2 c. à thé"
         },
         {
-          "quantite": 1.25,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "sel",
           "note": "¼ c. à thé"
         }
@@ -454,20 +454,20 @@
       "note": "Donne environ 500 ml (2 tasses)",
       "ingredients": [
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 41,
+          "unite": "g",
           "nom": "beurre",
           "note": "3 c. à soupe"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 22,
+          "unite": "g",
           "nom": "farine",
           "note": "3 c. à soupe"
         },
         {
           "quantite": 500,
-          "unite": "ml",
+          "unite": "g",
           "nom": "lait",
           "note": "2 tasses"
         },
@@ -499,8 +499,8 @@
       "note": "Coup de cœur d'Annabelle",
       "ingredients": [
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 27,
+          "unite": "g",
           "nom": "huile d'olive",
           "note": "2 c. à soupe"
         },
@@ -510,26 +510,26 @@
           "nom": "oignon, haché"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 138,
+          "unite": "g",
           "nom": "ketchup",
           "note": "½ tasse"
         },
         {
           "quantite": 60,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau",
           "note": "¼ tasse"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 59,
+          "unite": "g",
           "nom": "vinaigre de vin rouge",
           "note": "¼ tasse"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 85,
+          "unite": "g",
           "nom": "miel liquide",
           "note": "¼ tasse"
         },
@@ -539,32 +539,32 @@
           "nom": "gousse d'ail, hachée"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 24,
+          "unite": "g",
           "nom": "cassonade",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 16,
+          "unite": "g",
           "nom": "moutarde Dijon",
           "note": "1 c. à soupe"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 16,
+          "unite": "g",
           "nom": "sauce soya",
           "note": "1 c. à soupe"
         },
         {
           "quantite": 15,
-          "unite": "ml",
+          "unite": "g",
           "nom": "sauce Worcestershire",
           "note": "1 c. à soupe"
         },
         {
           "quantite": 15,
-          "unite": "ml",
+          "unite": "g",
           "nom": "tabasco (facultatif)",
           "note": "1 c. à soupe"
         },
@@ -599,8 +599,8 @@
           "note": "3 lbs"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 54,
+          "unite": "g",
           "nom": "huile d'olive",
           "note": "¼ tasse"
         },
@@ -640,23 +640,23 @@
           "nom": "gousses d'ail, hachées finement"
         },
         {
-          "quantite": 156,
-          "unite": "ml",
+          "quantite": 164,
+          "unite": "g",
           "nom": "pâte de tomates (1 boîte)"
         },
         {
-          "quantite": 1592,
-          "unite": "ml",
+          "quantite": 1590,
+          "unite": "g",
           "nom": "tomates italiennes en dés (2 boîtes de 796 ml)"
         },
         {
-          "quantite": 1592,
-          "unite": "ml",
+          "quantite": 1590,
+          "unite": "g",
           "nom": "sauce tomate (2 boîtes de 796 ml)"
         },
         {
           "quantite": 500,
-          "unite": "ml",
+          "unite": "g",
           "nom": "bouillon de bœuf",
           "note": "2 tasses"
         }
@@ -761,14 +761,14 @@
       "portions_label": "abaisse",
       "ingredients": [
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 24,
+          "unite": "g",
           "nom": "sucre",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 6,
+          "unite": "g",
           "nom": "sel",
           "note": "1 c. à thé"
         },
@@ -786,7 +786,7 @@
         },
         {
           "quantite": 105,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau glacée",
           "note": "7 c. à soupe"
         }
@@ -841,8 +841,8 @@
           "nom": "beurre fondu"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 12,
+          "unite": "g",
           "nom": "sel",
           "note": "2 c. à thé"
         },
@@ -908,13 +908,13 @@
           "nom": "eau tiède"
         },
         {
-          "quantite": 12,
-          "unite": "ml",
+          "quantite": 11,
+          "unite": "g",
           "nom": "huile végétale"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 85,
+          "unite": "g",
           "nom": "miel (pour l'eau de cuisson)",
           "note": "¼ tasse"
         },
@@ -963,8 +963,8 @@
           "note": "2 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "sel",
           "note": "½ c. à thé"
         },
@@ -974,26 +974,26 @@
           "nom": "beurre non salé fondu"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 114,
+          "unite": "g",
           "nom": "beurre fondu (garniture)",
           "note": "½ tasse"
         },
         {
-          "quantite": 180,
-          "unite": "ml",
+          "quantite": 144,
+          "unite": "g",
           "nom": "cassonade (garniture)",
           "note": "¾ tasse"
         },
         {
-          "quantite": 180,
-          "unite": "ml",
+          "quantite": 144,
+          "unite": "g",
           "nom": "sucre (garniture)",
           "note": "¾ tasse"
         },
         {
-          "quantite": 7.5,
-          "unite": "ml",
+          "quantite": 4.0,
+          "unite": "g",
           "nom": "cannelle moulue (garniture)",
           "note": "1½ c. à thé"
         }
@@ -1016,14 +1016,14 @@
       "note": "Se congèle bien, cuit ou non cuit, bien enveloppé dans du papier d'aluminium.",
       "ingredients": [
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 108,
+          "unite": "g",
           "nom": "miettes de pain",
           "note": "1 tasse"
         },
         {
           "quantite": 80,
-          "unite": "ml",
+          "unite": "g",
           "nom": "lait entier",
           "note": "⅓ tasse"
         },
@@ -1043,14 +1043,14 @@
           "nom": "gousses d'ail, finement hachées"
         },
         {
-          "quantite": 11,
-          "unite": "ml",
+          "quantite": 13,
+          "unite": "g",
           "nom": "sel",
           "note": "2¼ c. à thé"
         },
         {
-          "quantite": 7.5,
-          "unite": "ml",
+          "quantite": 3.5,
+          "unite": "g",
           "nom": "poivre noir",
           "note": "1½ c. à thé"
         },
@@ -1072,20 +1072,20 @@
           "nom": "gros œufs"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 27,
+          "unite": "g",
           "nom": "huile végétale",
           "note": "2 c. à soupe"
         },
         {
           "quantite": 45,
-          "unite": "ml",
+          "unite": "g",
           "nom": "sauce Worcestershire",
           "note": "3 c. à soupe"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 138,
+          "unite": "g",
           "nom": "ketchup (chili sauce)",
           "note": "½ tasse, divisée"
         }
@@ -1107,8 +1107,8 @@
       "portions_label": "portions",
       "ingredients": [
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 41,
+          "unite": "g",
           "nom": "beurre",
           "note": "3 c. à soupe"
         },
@@ -1119,49 +1119,49 @@
         },
         {
           "quantite": 2000,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau bouillante",
           "note": "8 tasses"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 200,
+          "unite": "g",
           "nom": "orge",
           "note": "1 tasse"
         },
         {
-          "quantite": 7.5,
-          "unite": "ml",
+          "quantite": 9,
+          "unite": "g",
           "nom": "sel",
           "note": "1½ c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.0,
+          "unite": "g",
           "nom": "poivre",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 750,
-          "unite": "ml",
+          "quantite": 90,
+          "unite": "g",
           "nom": "épinards déchiquetés",
           "note": "3 tasses"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 70,
+          "unite": "g",
           "nom": "chou haché",
           "note": "1 tasse"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 26,
+          "unite": "g",
           "nom": "carottes râpées",
           "note": "¼ tasse"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 12,
+          "unite": "g",
           "nom": "petits pois frais ou persil haché",
           "note": "¼ tasse"
         },
@@ -1171,14 +1171,14 @@
           "nom": "cube de bouillon de bœuf ou de poulet"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "fines herbes",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 284,
-          "unite": "ml",
+          "quantite": 285,
+          "unite": "g",
           "nom": "soupe aux tomates en conserve (ou sauce tomate mutti)",
           "note": "1 boîte de 10 oz"
         }
@@ -1208,8 +1208,8 @@
           "note": "½ lb"
         },
         {
-          "quantite": 750,
-          "unite": "ml",
+          "quantite": 210,
+          "unite": "g",
           "nom": "chou vert émincé finement",
           "note": "3 tasses, environ ½ chou"
         },
@@ -1224,26 +1224,26 @@
           "nom": "carottes, pelées et râpées"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 40,
+          "unite": "g",
           "nom": "huile de canola",
           "note": "3 c. à soupe"
         },
         {
           "quantite": 60,
-          "unite": "ml",
+          "unite": "g",
           "nom": "sauce au poisson (nuoc-mam)",
           "note": "¼ tasse"
         },
         {
           "quantite": 5,
-          "unite": "ml",
+          "unite": "g",
           "nom": "sambal oelek",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 500,
-          "unite": "ml",
+          "quantite": 350,
+          "unite": "g",
           "nom": "vermicelles de riz concassés et cuits",
           "note": "2 tasses"
         },
@@ -1253,38 +1253,38 @@
           "nom": "feuilles de pâte phyllo"
         },
         {
-          "quantite": 75,
-          "unite": "ml",
+          "quantite": 68,
+          "unite": "g",
           "nom": "huile de canola (pour badigeonner)",
           "note": "⅓ tasse"
         },
         {
           "quantite": 30,
-          "unite": "ml",
+          "unite": "g",
           "nom": "sauce au poisson (sauce)",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 20,
-          "unite": "ml",
+          "quantite": 16,
+          "unite": "g",
           "nom": "sucre (sauce)",
           "note": "4 c. à thé"
         },
         {
           "quantite": 15,
-          "unite": "ml",
+          "unite": "g",
           "nom": "vinaigre de riz (sauce)",
           "note": "1 c. à soupe"
         },
         {
           "quantite": 60,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau (sauce)",
           "note": "¼ tasse"
         },
         {
           "quantite": 5,
-          "unite": "ml",
+          "unite": "g",
           "nom": "sambal oelek (sauce)",
           "note": "1 c. à thé"
         }
@@ -1305,14 +1305,14 @@
       "portions_label": "portions",
       "ingredients": [
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 125,
+          "unite": "g",
           "nom": "farine tout usage",
           "note": "1 tasse"
         },
         {
           "quantite": 125,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau tiède",
           "note": "½ tasse"
         },
@@ -1344,38 +1344,38 @@
           "nom": "gousses d'ail, finement râpées"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "gingembre râpé",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 5.0,
+          "unite": "g",
           "nom": "saké (facultatif)",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.5,
+          "unite": "g",
           "nom": "huile de sésame grillé",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 6,
+          "unite": "g",
           "nom": "sauce soja",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "sel",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 1.25,
-          "unite": "ml",
+          "quantite": 0.5,
+          "unite": "g",
           "nom": "poivre noir",
           "note": "¼ c. à thé"
         }
@@ -1398,14 +1398,14 @@
       "temps_cuisson": "1 h 30",
       "ingredients": [
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 41,
+          "unite": "g",
           "nom": "beurre (beurre manié)",
           "note": "3 c. à soupe"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 22,
+          "unite": "g",
           "nom": "farine (beurre manié)",
           "note": "3 c. à soupe"
         },
@@ -1420,8 +1420,8 @@
           "nom": "cubes de bœuf"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 27,
+          "unite": "g",
           "nom": "huile d'olive",
           "note": "2 c. à soupe"
         },
@@ -1441,20 +1441,20 @@
           "nom": "gousses d'ail, hachées"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 43,
+          "unite": "g",
           "nom": "brandy",
           "note": "3 c. à soupe"
         },
         {
-          "quantite": 500,
-          "unite": "ml",
+          "quantite": 495,
+          "unite": "g",
           "nom": "vin rouge",
           "note": "2 tasses"
         },
         {
           "quantite": 500,
-          "unite": "ml",
+          "unite": "g",
           "nom": "bouillon de bœuf",
           "note": "2 tasses"
         },
@@ -1481,14 +1481,14 @@
           "note": "garniture"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 41,
+          "unite": "g",
           "nom": "beurre (garniture)",
           "note": "3 c. à soupe"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 6,
+          "unite": "g",
           "nom": "persil ciselé",
           "note": "2 c. à soupe"
         }
@@ -1512,55 +1512,55 @@
       "ingredients": [
         {
           "quantite": 30,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau",
           "note": "2 c. à soupe"
         },
         {
           "quantite": 30,
-          "unite": "ml",
+          "unite": "g",
           "nom": "vinaigre",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 33,
+          "unite": "g",
           "nom": "sauce soya",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 20,
+          "unite": "g",
           "nom": "sirop d'érable",
           "note": "1 c. à soupe"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "gingembre, finement haché",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 7.5,
-          "unite": "ml",
+          "quantite": 4.0,
+          "unite": "g",
           "nom": "fécule de maïs",
           "note": "½ c. à soupe"
         },
         {
           "quantite": 5,
-          "unite": "ml",
+          "unite": "g",
           "nom": "sauce piquante",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 500,
-          "unite": "ml",
+          "quantite": 300,
+          "unite": "g",
           "nom": "légumes à cuisson longue (oignons, carottes, céleri, brocoli…)",
           "note": "2 tasses"
         },
         {
-          "quantite": 750,
-          "unite": "ml",
+          "quantite": 450,
+          "unite": "g",
           "nom": "légumes à cuisson rapide (pois mange-tout, poivrons, bok choy, fèves germées…)",
           "note": "3 tasses"
         }
@@ -1589,8 +1589,8 @@
           "nom": "poulet, coupé en lanières"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 14,
+          "unite": "g",
           "nom": "huile de tournesol",
           "note": "1 c. à soupe"
         },
@@ -1625,32 +1625,32 @@
           "nom": "gousse d'ail, écrasée"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 2.5,
+          "unite": "g",
           "nom": "coriandre en poudre",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 2.5,
+          "unite": "g",
           "nom": "paprika",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.0,
+          "unite": "g",
           "nom": "cumin en poudre",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "origan séché",
           "note": "1 c. à thé"
         },
         {
           "quantite": 100,
-          "unite": "ml",
+          "unite": "g",
           "nom": "bière",
           "note": "2/5 tasse"
         },
@@ -1728,8 +1728,8 @@
           "nom": "poivre noir moulu"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 27,
+          "unite": "g",
           "nom": "huile de cuisson",
           "note": "2 c. à soupe"
         }
@@ -1757,20 +1757,20 @@
           "nom": "meule de brie entière"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 28,
+          "unite": "g",
           "nom": "beurre de noisettes ou d'amandes",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 43,
+          "unite": "g",
           "nom": "miel",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 8,
+          "unite": "g",
           "nom": "noisettes ou amandes rôties, hachées grossièrement",
           "note": "1 c. à soupe"
         },
@@ -1825,13 +1825,13 @@
         },
         {
           "quantite": 30,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 9,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "2 c. à thé"
         },
@@ -1842,14 +1842,14 @@
           "note": "¾ tasse"
         },
         {
-          "quantite": 3.75,
-          "unite": "ml",
+          "quantite": 4.5,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "¾ c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 2.5,
+          "unite": "g",
           "nom": "cannelle",
           "note": "1 c. à thé"
         },
@@ -1901,26 +1901,26 @@
       "portions_label": "biscuits",
       "ingredients": [
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 90,
+          "unite": "g",
           "nom": "flocons d'avoine à cuisson rapide",
           "note": "1 tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 60,
+          "unite": "g",
           "nom": "farine de blé entier",
           "note": "½ tasse"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.0,
+          "unite": "g",
           "nom": "poudre à pâte",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "cannelle",
           "note": "½ c. à thé"
         },
@@ -1930,14 +1930,14 @@
           "nom": "une pincée de sel"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 27,
+          "unite": "g",
           "nom": "beurre non salé fondu",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 79,
+          "unite": "g",
           "nom": "sirop d'érable",
           "note": "¼ tasse"
         },
@@ -1947,8 +1947,8 @@
           "nom": "gros oeuf"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.5,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "1 c. à thé"
         },
@@ -1974,14 +1974,14 @@
       "portions_label": "biscuits",
       "ingredients": [
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 55,
+          "unite": "g",
           "nom": "beurre ou margarine",
           "note": "¼ tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 178,
+          "unite": "g",
           "nom": "miel",
           "note": "½ tasse"
         },
@@ -1991,50 +1991,50 @@
           "nom": "oeuf"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 2.0,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 62,
+          "unite": "g",
           "nom": "farine tout usage",
           "note": "½ tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 58,
+          "unite": "g",
           "nom": "germes de blé",
           "note": "½ tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 45,
+          "unite": "g",
           "nom": "flocons d'avoine",
           "note": "½ tasse"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 180,
-          "unite": "ml",
+          "quantite": 122,
+          "unite": "g",
           "nom": "brisures de chocolat noir",
           "note": "¾ tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 70,
+          "unite": "g",
           "nom": "amandes ou graines de tournesol",
           "note": "½ tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 60,
+          "unite": "g",
           "nom": "noix hachées",
           "note": "½ tasse"
         },
@@ -2061,14 +2061,14 @@
       "portions_label": "biscuits",
       "ingredients": [
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 114,
+          "unite": "g",
           "nom": "beurre doux ou margarine",
           "note": "½ tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 100,
+          "unite": "g",
           "nom": "sucre",
           "note": "½ tasse"
         },
@@ -2078,38 +2078,38 @@
           "nom": "oeuf"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 43,
+          "unite": "g",
           "nom": "miel",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 333,
-          "unite": "ml",
+          "quantite": 166,
+          "unite": "g",
           "nom": "farine tout usage",
           "note": "1⅓ tasse"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 2.0,
+          "unite": "g",
           "nom": "clous de girofle moulus",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 2.5,
+          "unite": "g",
           "nom": "cannelle moulue",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 7.5,
-          "unite": "ml",
+          "quantite": 2.5,
+          "unite": "g",
           "nom": "gingembre moulu",
           "note": "1½ c. à thé"
         }
@@ -2130,32 +2130,32 @@
       "portions_label": "biscuits",
       "ingredients": [
         {
-          "quantite": 438,
-          "unite": "ml",
+          "quantite": 220,
+          "unite": "g",
           "nom": "farine tout usage",
           "note": "1¾ tasse"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.0,
+          "unite": "g",
           "nom": "poudre à pâte",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "sel",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 160,
-          "unite": "ml",
+          "quantite": 146,
+          "unite": "g",
           "nom": "beurre",
           "note": "⅓ tasse"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 200,
+          "unite": "g",
           "nom": "sucre",
           "note": "1 tasse"
         },
@@ -2165,20 +2165,20 @@
           "nom": "oeuf"
         },
         {
-          "quantite": 7.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "zeste de citron râpé",
           "note": "½ c. à soupe"
         },
         {
           "quantite": 15,
-          "unite": "ml",
+          "unite": "g",
           "nom": "jus de citron",
           "note": "1 c. à soupe"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 55,
+          "unite": "g",
           "nom": "pacanes hachées finement",
           "note": "½ tasse"
         }
@@ -2234,7 +2234,7 @@
         },
         {
           "quantite": 90,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau bouillante"
         },
         {
@@ -2248,8 +2248,8 @@
           "nom": "oeufs"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 14,
+          "unite": "g",
           "nom": "extrait de vanille"
         },
         {
@@ -2292,20 +2292,20 @@
           "note": "2 tasses"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 6,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "cannelle moulue",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.0,
+          "unite": "g",
           "nom": "gingembre moulu",
           "note": "½ c. à thé"
         },
@@ -2321,8 +2321,8 @@
           "note": "½ tasse"
         },
         {
-          "quantite": 180,
-          "unite": "ml",
+          "quantite": 255,
+          "unite": "g",
           "nom": "mélasse",
           "note": "¾ tasse"
         },
@@ -2428,8 +2428,8 @@
           "nom": "gros jaunes d'oeufs"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 48,
+          "unite": "g",
           "nom": "sucre",
           "note": "¼ tasse"
         },
@@ -2439,8 +2439,8 @@
           "nom": "une pincée de sel"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 10,
+          "unite": "g",
           "nom": "cacao non sucré",
           "note": "2 c. à soupe"
         },
@@ -2452,7 +2452,7 @@
         },
         {
           "quantite": 125,
-          "unite": "ml",
+          "unite": "g",
           "nom": "crème épaisse (35 %)",
           "note": "½ tasse"
         }
@@ -2485,8 +2485,8 @@
           "note": "1 bloc"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 40,
+          "unite": "g",
           "nom": "sirop d'érable",
           "note": "2 c. à soupe"
         },
@@ -2520,20 +2520,20 @@
           "note": "2 tasses"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 6,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.0,
+          "unite": "g",
           "nom": "poudre à pâte",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "sel",
           "note": "½ c. à thé"
         },
@@ -2561,8 +2561,8 @@
           "note": "½ tasse"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 9,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "2 c. à thé"
         },
@@ -2603,7 +2603,7 @@
         },
         {
           "quantite": 250,
-          "unite": "ml",
+          "unite": "g",
           "nom": "crème 35 %",
           "note": "1 tasse"
         },
@@ -2630,20 +2630,20 @@
       "portions_label": "portions (glaçage pour 1 gâteau)",
       "ingredients": [
         {
-          "quantite": 375,
-          "unite": "ml",
+          "quantite": 495,
+          "unite": "g",
           "nom": "sirop d'érable",
           "note": "1½ tasse"
         },
         {
           "quantite": 125,
-          "unite": "ml",
+          "unite": "g",
           "nom": "crème 35 %",
           "note": "½ tasse"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 42,
+          "unite": "g",
           "nom": "sirop de maïs",
           "note": "2 c. à soupe"
         },
@@ -2653,8 +2653,8 @@
           "nom": "jaunes d'oeufs"
         },
         {
-          "quantite": 310,
-          "unite": "ml",
+          "quantite": 280,
+          "unite": "g",
           "nom": "beurre non salé ramolli (encore légèrement froid)",
           "note": "1¼ tasse"
         }
@@ -2679,14 +2679,14 @@
           "nom": "farine tout usage"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 8,
+          "unite": "g",
           "nom": "levure chimique (poudre à pâte)",
           "note": "2½ c. à thé"
         },
         {
-          "quantite": 1.25,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "sel",
           "note": "¼ c. à thé"
         },
@@ -2708,12 +2708,12 @@
         },
         {
           "quantite": 250,
-          "unite": "ml",
+          "unite": "g",
           "nom": "lait entier"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 14,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "3 c. à thé"
         }
@@ -2742,26 +2742,26 @@
           "nom": "abaisse de pâte à tarte (recette de base)"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 15,
+          "unite": "g",
           "nom": "fécule de maïs",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 15,
+          "unite": "g",
           "nom": "farine tout usage",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 375,
-          "unite": "ml",
+          "quantite": 495,
+          "unite": "g",
           "nom": "sirop d'érable ambré",
           "note": "1½ tasse"
         },
         {
           "quantite": 125,
-          "unite": "ml",
+          "unite": "g",
           "nom": "crème 35 %",
           "note": "½ tasse"
         },
@@ -2771,14 +2771,14 @@
           "nom": "oeuf"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 100,
+          "unite": "g",
           "nom": "canneberges fraîches",
           "note": "1 tasse"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 125,
+          "unite": "g",
           "nom": "cubes de pommes",
           "note": "1 tasse"
         }
@@ -2798,26 +2798,26 @@
       "portions_label": "portions",
       "ingredients": [
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 60,
+          "unite": "g",
           "nom": "noix de Grenoble",
           "note": "½ tasse"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 36,
+          "unite": "g",
           "nom": "cassonade",
           "note": "3 c. à soupe"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 95,
+          "unite": "g",
           "nom": "poudre d'amandes",
           "note": "1 tasse"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 55,
+          "unite": "g",
           "nom": "beurre fondu",
           "note": "¼ tasse"
         },
@@ -2842,8 +2842,8 @@
           "nom": "jus de ½ citron"
         },
         {
-          "quantite": 180,
-          "unite": "ml",
+          "quantite": 122,
+          "unite": "g",
           "nom": "pépites de chocolat noir",
           "note": "¾ tasse"
         }
@@ -2865,14 +2865,14 @@
       "temps_cuisson": "45 min",
       "ingredients": [
         {
-          "quantite": 375,
-          "unite": "ml",
+          "quantite": 188,
+          "unite": "g",
           "nom": "farine tout usage",
           "note": "1½ tasse"
         },
         {
-          "quantite": 7.5,
-          "unite": "ml",
+          "quantite": 9,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "1½ c. à thé"
         },
@@ -2882,20 +2882,20 @@
           "nom": "une pincée de sel"
         },
         {
-          "quantite": 15,
-          "unite": "ml",
+          "quantite": 6,
+          "unite": "g",
           "nom": "zeste de citron",
           "note": "1 c. à soupe"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 46,
+          "unite": "g",
           "nom": "jus de citron",
           "note": "3 c. à soupe"
         },
         {
-          "quantite": 180,
-          "unite": "ml",
+          "quantite": 144,
+          "unite": "g",
           "nom": "sucre",
           "note": "¾ tasse"
         },
@@ -2905,20 +2905,20 @@
           "nom": "oeufs"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 112,
+          "unite": "g",
           "nom": "huile de canola",
           "note": "½ tasse"
         },
         {
           "quantite": 180,
-          "unite": "ml",
+          "unite": "g",
           "nom": "yogourt grec à la vanille",
           "note": "¾ tasse"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 125,
+          "unite": "g",
           "nom": "framboises fraîches",
           "note": "1 tasse (1 casseau)"
         }
@@ -2940,44 +2940,44 @@
       "temps_cuisson": "50 min",
       "ingredients": [
         {
-          "quantite": 500,
-          "unite": "ml",
+          "quantite": 250,
+          "unite": "g",
           "nom": "farine tout usage",
           "note": "2 tasses"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 24,
+          "unite": "g",
           "nom": "poudre à pâte",
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "sel",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 15,
+          "unite": "g",
           "nom": "cacao en poudre",
           "note": "3 c. à soupe"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 20,
+          "unite": "g",
           "nom": "café instantané en poudre",
           "note": "3 c. à soupe"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 200,
+          "unite": "g",
           "nom": "sucre",
           "note": "1 tasse"
         },
@@ -2987,32 +2987,32 @@
           "nom": "oeufs"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 102,
+          "unite": "g",
           "nom": "graisse végétale",
           "note": "½ tasse"
         },
         {
           "quantite": 250,
-          "unite": "ml",
+          "unite": "g",
           "nom": "lait sur (lait + 1 c. à thé de vinaigre)",
           "note": "1 tasse"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.5,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 500,
-          "unite": "ml",
+          "quantite": 200,
+          "unite": "g",
           "nom": "canneberges congelées, sorties 1 h à l'avance",
           "note": "2 tasses"
         },
         {
-          "quantite": 375,
-          "unite": "ml",
+          "quantite": 165,
+          "unite": "g",
           "nom": "pacanes ou noix",
           "note": "1½ tasse"
         }
@@ -3054,7 +3054,7 @@
         },
         {
           "quantite": 480,
-          "unite": "ml",
+          "unite": "g",
           "nom": "lait 2 %",
           "note": "500 g"
         },
@@ -3092,26 +3092,26 @@
           "note": "½ tasse"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 6,
+          "unite": "g",
           "nom": "sel",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.0,
+          "unite": "g",
           "nom": "levure chimique (poudre à pâte)",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 24,
+          "unite": "g",
           "nom": "sucre",
           "note": "2 c. à soupe"
         },
@@ -3128,8 +3128,8 @@
           "note": "⅓ tasse"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 9,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "2 c. à thé"
         },
@@ -3193,8 +3193,8 @@
           "note": "2 c. à soupe"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.5,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "1 c. à thé"
         },
@@ -3255,14 +3255,14 @@
           "note": "2 tasses"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.0,
+          "unite": "g",
           "nom": "poudre à pâte",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "sel",
           "note": "½ c. à thé"
         },
@@ -3272,20 +3272,20 @@
           "nom": "chocolat, en morceaux"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 29,
+          "unite": "g",
           "nom": "noix hachées",
           "note": "¼ tasse"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 48,
+          "unite": "g",
           "nom": "cassonade tassée",
           "note": "¼ tasse"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 2.5,
+          "unite": "g",
           "nom": "cannelle",
           "note": "1 c. à thé"
         }
@@ -3315,32 +3315,32 @@
           "note": "2¼ tasses"
         },
         {
-          "quantite": 7.5,
-          "unite": "ml",
+          "quantite": 6,
+          "unite": "g",
           "nom": "poudre à pâte",
           "note": "1½ c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "cannelle moulue",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.0,
+          "unite": "g",
           "nom": "muscade moulue",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 1.25,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "sel",
           "note": "¼ c. à thé"
         },
@@ -3356,14 +3356,14 @@
           "note": "1¾ tasse"
         },
         {
-          "quantite": 180,
-          "unite": "ml",
+          "quantite": 162,
+          "unite": "g",
           "nom": "huile de canola",
           "note": "¾ tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 130,
+          "unite": "g",
           "nom": "jus d'orange",
           "note": "½ tasse"
         },
@@ -3374,8 +3374,8 @@
           "note": "4 tasses"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 120,
+          "unite": "g",
           "nom": "noix de Grenoble hachées",
           "note": "1 tasse"
         },
@@ -3405,14 +3405,14 @@
       "note": "Trouvé dans l'Hebdo — L'art de recevoir, décembre 2005.",
       "ingredients": [
         {
-          "quantite": 625,
-          "unite": "ml",
+          "quantite": 310,
+          "unite": "g",
           "nom": "farine tout usage",
           "note": "2½ tasses"
         },
         {
-          "quantite": 300,
-          "unite": "ml",
+          "quantite": 240,
+          "unite": "g",
           "nom": "cassonade tassée",
           "note": "1½ tasse"
         },
@@ -3423,38 +3423,38 @@
           "note": "¾ tasse"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 12,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "2 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 2.0,
+          "unite": "g",
           "nom": "poudre à pâte",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "sel",
           "note": "½ c. à thé"
         },
         {
           "quantite": 250,
-          "unite": "ml",
+          "unite": "g",
           "nom": "lait",
           "note": "1 tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 112,
+          "unite": "g",
           "nom": "huile végétale",
           "note": "½ tasse"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 59,
+          "unite": "g",
           "nom": "vinaigre",
           "note": "4 c. à soupe"
         },
@@ -3464,8 +3464,8 @@
           "nom": "oeufs"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 9,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "2 c. à thé"
         },
@@ -3476,13 +3476,13 @@
         },
         {
           "quantite": 125,
-          "unite": "ml",
+          "unite": "g",
           "nom": "crème sure (glaçage)",
           "note": "½ tasse"
         },
         {
-          "quantite": 30,
-          "unite": "ml",
+          "quantite": 14,
+          "unite": "g",
           "nom": "sucre glace (glaçage)",
           "note": "2 c. à soupe"
         }
@@ -3515,8 +3515,8 @@
           "note": "½ tasse"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.5,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "1 c. à thé"
         },
@@ -3539,8 +3539,8 @@
           "note": "⅓ tasse"
         },
         {
-          "quantite": 45,
-          "unite": "ml",
+          "quantite": 23,
+          "unite": "g",
           "nom": "graines de citrouille ou arachides concassées",
           "note": "3 c. à soupe"
         }
@@ -3563,44 +3563,44 @@
       "note": "Les muffins légendaires.",
       "ingredients": [
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 90,
+          "unite": "g",
           "nom": "flocons d'avoine",
           "note": "1 tasse"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 230,
+          "unite": "g",
           "nom": "babeurre ou lait suri",
           "note": "1 tasse"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 125,
+          "unite": "g",
           "nom": "farine tout usage",
           "note": "1 tasse"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.0,
+          "unite": "g",
           "nom": "levure chimique (poudre à pâte)",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2,
-          "unite": "ml",
+          "quantite": 2.5,
+          "unite": "g",
           "nom": "bicarbonate de sodium",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 2,
-          "unite": "ml",
+          "quantite": 2.5,
+          "unite": "g",
           "nom": "sel",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 175,
-          "unite": "ml",
+          "quantite": 140,
+          "unite": "g",
           "nom": "cassonade, légèrement pressée",
           "note": "¾ tasse"
         },
@@ -3610,14 +3610,14 @@
           "nom": "oeuf, battu"
         },
         {
-          "quantite": 50,
-          "unite": "ml",
+          "quantite": 46,
+          "unite": "g",
           "nom": "beurre fondu",
           "note": "¼ tasse"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 145,
+          "unite": "g",
           "nom": "bleuets congelés",
           "note": "1 tasse"
         }
@@ -3642,19 +3642,19 @@
       "ingredients": [
         {
           "quantite": 1000,
-          "unite": "ml",
+          "unite": "g",
           "nom": "lait",
           "note": "4 tasses"
         },
         {
-          "quantite": 80,
-          "unite": "ml",
+          "quantite": 64,
+          "unite": "g",
           "nom": "sucre",
           "note": "⅓ tasse"
         },
         {
-          "quantite": 80,
-          "unite": "ml",
+          "quantite": 53,
+          "unite": "g",
           "nom": "tapioca moyen",
           "note": "⅓ tasse"
         },
@@ -3691,20 +3691,20 @@
       "temps_cuisson": "30-35 min",
       "ingredients": [
         {
-          "quantite": 80,
-          "unite": "ml",
+          "quantite": 64,
+          "unite": "g",
           "nom": "sucre granulé",
           "note": "⅓ tasse"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "cannelle",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 1.25,
-          "unite": "ml",
+          "quantite": 0.5,
+          "unite": "g",
           "nom": "muscade",
           "note": "¼ c. à thé"
         },
@@ -3714,44 +3714,44 @@
           "nom": "grosses pommes, pelées et tranchées"
         },
         {
-          "quantite": 250,
-          "unite": "ml",
+          "quantite": 100,
+          "unite": "g",
           "nom": "canneberges fraîches ou congelées",
           "note": "1 tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 45,
+          "unite": "g",
           "nom": "flocons d'avoine à cuisson rapide (garniture)",
           "note": "½ tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 62,
+          "unite": "g",
           "nom": "farine tout usage (garniture)",
           "note": "½ tasse"
         },
         {
-          "quantite": 125,
-          "unite": "ml",
+          "quantite": 100,
+          "unite": "g",
           "nom": "sucre brun (garniture)",
           "note": "½ tasse"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "cannelle (garniture)",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 60,
-          "unite": "ml",
+          "quantite": 55,
+          "unite": "g",
           "nom": "beurre (garniture)",
           "note": "¼ tasse"
         },
         {
           "quantite": 15,
-          "unite": "ml",
+          "unite": "g",
           "nom": "eau (garniture)",
           "note": "1 c. à soupe"
         }
@@ -3801,26 +3801,26 @@
           "nom": "farine tout usage"
         },
         {
-          "quantite": 10,
-          "unite": "ml",
+          "quantite": 8,
+          "unite": "g",
           "nom": "poudre à pâte",
           "note": "2 c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 6,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "cannelle moulue",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 1.25,
-          "unite": "ml",
+          "quantite": 1.5,
+          "unite": "g",
           "nom": "sel",
           "note": "¼ c. à thé"
         }
@@ -3848,7 +3848,7 @@
         },
         {
           "quantite": 235,
-          "unite": "ml",
+          "unite": "g",
           "nom": "lait entier",
           "note": "1 tasse"
         },
@@ -3957,32 +3957,32 @@
           "nom": "gros oeufs, battus"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 4.5,
+          "unite": "g",
           "nom": "extrait de vanille",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 5,
-          "unite": "ml",
+          "quantite": 2.5,
+          "unite": "g",
           "nom": "cannelle",
           "note": "1 c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 3.0,
+          "unite": "g",
           "nom": "bicarbonate de soude",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 2.5,
-          "unite": "ml",
+          "quantite": 2.0,
+          "unite": "g",
           "nom": "poudre à pâte",
           "note": "½ c. à thé"
         },
         {
-          "quantite": 1.25,
-          "unite": "ml",
+          "quantite": 0.5,
+          "unite": "g",
           "nom": "gingembre moulu",
           "note": "¼ c. à thé"
         },
