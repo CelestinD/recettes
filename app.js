@@ -4,6 +4,8 @@ let categories   = [];
 let activeFilter = 'all';
 let currentRecipe  = null;
 let currentPortions = 0;
+let sortOrder    = 'default';
+let favorites    = JSON.parse(localStorage.getItem('favorites') || '[]');
 
 /* ─── Fraction formatting ─────────────────────────────────── */
 const FRACTIONS = [
@@ -27,10 +29,8 @@ function formatQty(raw) {
   if (fracStr) return whole > 0 ? `${whole} ${fracStr}` : fracStr;
   if (frac < 0.04) return whole.toString();
 
-  // Large numbers: no decimal
   if (num >= 10) return Math.round(num).toString();
 
-  // 1 decimal if needed
   const dec = Math.round(num * 10) / 10;
   return dec % 1 === 0 ? dec.toString() : dec.toFixed(1);
 }
@@ -68,6 +68,13 @@ function buildFilters() {
     wrap.appendChild(btn);
   });
 
+  // Favoris
+  const favFilterBtn = el('button', 'filter-btn');
+  favFilterBtn.dataset.cat = 'favoris';
+  favFilterBtn.textContent = '♥ Favoris';
+  favFilterBtn.addEventListener('click', () => setFilter('favoris'));
+  wrap.appendChild(favFilterBtn);
+
   wrap.querySelector('[data-cat="all"]').addEventListener('click', () => setFilter('all'));
 }
 
@@ -79,6 +86,12 @@ function setFilter(catId) {
   render();
 }
 
+/* ─── Sort ────────────────────────────────────────────────── */
+$('sort').addEventListener('change', e => {
+  sortOrder = e.target.value;
+  render();
+});
+
 /* ─── Search ──────────────────────────────────────────────── */
 $('search').addEventListener('input', render);
 
@@ -86,21 +99,31 @@ $('search').addEventListener('input', render);
 function render() {
   const query = $('search').value.trim().toLowerCase();
 
-  const visible = allRecipes.filter(r => {
-    const matchCat  = activeFilter === 'all' || r.categorie === activeFilter;
+  let visible = allRecipes.filter(r => {
+    const matchCat = activeFilter === 'all'
+      ? true
+      : activeFilter === 'favoris'
+        ? favorites.includes(r.id)
+        : r.categorie === activeFilter;
     const matchText = !query ||
       r.nom.toLowerCase().includes(query) ||
       r.ingredients.some(i => i.nom.toLowerCase().includes(query));
     return matchCat && matchText;
   });
 
+  if (sortOrder === 'az') visible = [...visible].sort((a, b) => a.nom.localeCompare(b.nom, 'fr'));
+  else if (sortOrder === 'za') visible = [...visible].sort((a, b) => b.nom.localeCompare(a.nom, 'fr'));
+
+  const n = visible.length;
+  $('results-count').textContent = n === 0 ? '' : n === 1 ? '1 recette' : `${n} recettes`;
+
   const grid = $('recipe-grid');
   grid.innerHTML = '';
-
   $('empty-state').hidden = visible.length > 0;
 
   visible.forEach(recipe => {
     const cat = categories.find(c => c.id === recipe.categorie);
+    const isFav = favorites.includes(recipe.id);
     const card = el('li', 'recipe-card');
     card.setAttribute('role', 'listitem');
     card.setAttribute('tabindex', '0');
@@ -108,6 +131,7 @@ function render() {
 
     card.innerHTML = `
       <span class="card-emoji">${cat ? cat.emoji : '🍴'}</span>
+      ${isFav ? '<span class="card-fav-badge" aria-label="Favori">♥</span>' : ''}
       <span class="card-cat">${cat ? cat.nom : recipe.categorie}</span>
       <span class="card-name">${recipe.nom}</span>
       <span class="card-meta">${recipe.portions} ${recipe.portions_label}</span>
@@ -153,6 +177,12 @@ function openModal(recipe) {
     metaEl.appendChild(m);
   }
 
+  // Fav button state
+  const isFav = favorites.includes(recipe.id);
+  const favBtn = $('modal-fav');
+  favBtn.classList.toggle('fav-active', isFav);
+  favBtn.setAttribute('aria-label', isFav ? 'Retirer des favoris' : 'Ajouter aux favoris');
+
   renderPortions();
   renderIngredients();
   renderSteps();
@@ -162,10 +192,7 @@ function openModal(recipe) {
   overlay.setAttribute('aria-hidden', 'false');
   document.body.style.overflow = 'hidden';
 
-  // URL hash for bookmarking
   history.pushState(null, '', `#${recipe.id}`);
-
-  // Focus close button for accessibility
   setTimeout(() => $('modal-close').focus(), 50);
 }
 
@@ -229,6 +256,51 @@ $('portions-minus').addEventListener('click', () => {
     renderIngredients();
   }
 });
+
+/* ─── Favoris ─────────────────────────────────────────────── */
+function toggleFavorite() {
+  const id = currentRecipe.id;
+  const idx = favorites.indexOf(id);
+  if (idx === -1) {
+    favorites.push(id);
+    showToast('Ajouté aux favoris ♥');
+  } else {
+    favorites.splice(idx, 1);
+    showToast('Retiré des favoris');
+  }
+  localStorage.setItem('favorites', JSON.stringify(favorites));
+
+  const isFav = favorites.includes(id);
+  const favBtn = $('modal-fav');
+  favBtn.classList.toggle('fav-active', isFav);
+  favBtn.setAttribute('aria-label', isFav ? 'Retirer des favoris' : 'Ajouter aux favoris');
+
+  render();
+}
+
+$('modal-fav').addEventListener('click', toggleFavorite);
+
+/* ─── Partage ─────────────────────────────────────────────── */
+function shareRecipe() {
+  const url = `${window.location.origin}${window.location.pathname}#${currentRecipe.id}`;
+  if (navigator.share) {
+    navigator.share({ title: currentRecipe.nom, url });
+  } else {
+    navigator.clipboard.writeText(url).then(() => showToast('Lien copié !'));
+  }
+}
+
+$('modal-share').addEventListener('click', shareRecipe);
+
+/* ─── Toast ───────────────────────────────────────────────── */
+let toastTimer;
+function showToast(msg) {
+  const t = $('toast');
+  t.textContent = msg;
+  t.hidden = false;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { t.hidden = true; }, 2500);
+}
 
 /* ─── Close modal ─────────────────────────────────────────── */
 $('modal-close').addEventListener('click', closeModal);

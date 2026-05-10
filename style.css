@@ -504,5 +504,117 @@ main {
   margin-top: 1px;
 }
 
+/* ─── Toolbar meta (tri + compteur) ──────────────────────── */
+.toolbar-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 28px;
+}
+
+.results-count {
+  font-size: .8rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.sort-select {
+  padding: 5px 28px 5px 10px;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  font-family: var(--font);
+  font-size: .8rem;
+  color: var(--text);
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%237a6a5a' d='M6 8 0 0h12z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+}
+
+.sort-select:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+/* ─── Modal actions group ─────────────────────────────────── */
+.modal-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.modal-icon-btn {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  background: var(--bg);
+  color: var(--text-muted);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background .15s, color .15s;
+}
+
+.modal-icon-btn svg { width: 16px; height: 16px; }
+
+.modal-icon-btn:hover {
+  background: var(--accent-light);
+  color: var(--accent);
+}
+
+.modal-icon-btn.fav-active {
+  color: var(--accent);
+}
+
+.modal-icon-btn.fav-active svg {
+  fill: var(--accent);
+  stroke: var(--accent);
+}
+
+/* ─── Card fav badge ──────────────────────────────────────── */
+.recipe-card { position: relative; }
+
+.card-fav-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: var(--accent);
+  font-size: .85rem;
+  line-height: 1;
+  pointer-events: none;
+}
+
+/* ─── Toast ───────────────────────────────────────────────── */
+.toast {
+  position: fixed;
+  bottom: 28px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--text);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 99px;
+  font-size: .875rem;
+  font-weight: 500;
+  z-index: 300;
+  animation: toast-in .2s ease;
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+@keyframes toast-in {
+  from { opacity: 0; transform: translateX(-50%) translateY(8px); }
+  to   { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
 /* ─── Utilities ───────────────────────────────────────────── */
 [hidden] { display: none !important; }
